@@ -1,0 +1,2405 @@
+{
+  "updated": "2026-10-29T16:19:48+00:00",
+  "items": [
+    {
+      "cve": "CVE-2026-41709",
+      "vendor": "Broadcom",
+      "product": "VMware ESX",
+      "name": "Broadcom VMWare ESX Insufficient Logging Vulnerability",
+      "dateAdded": "2026-10-28",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-46300",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Missing Initialization of a Variable Vulnerability",
+      "dateAdded": "2026-10-28",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-48356",
+      "vendor": "Adobe",
+      "product": "Commerce and Magento",
+      "name": "Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability",
+      "dateAdded": "2026-10-27",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-111497",
+      "vendor": "Google",
+      "product": "Brotli",
+      "name": "Google Brotli Unchecked Return Value Vulnerability",
+      "dateAdded": "2026-10-27",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-109618",
+      "vendor": "PHP Group",
+      "product": "PHP",
+      "name": "PHP Memory Corruption Vulnerability",
+      "dateAdded": "2026-10-26",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-109619",
+      "vendor": "PHP Group",
+      "product": "PHP",
+      "name": "PHP Stale Internal Request-State Vulnerability",
+      "dateAdded": "2026-10-26",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-114625",
+      "vendor": "Arista",
+      "product": "VeloCloud Orchestrator",
+      "name": "Arista VeloCloud Orchestrator SQL Injection Vulnerability",
+      "dateAdded": "2026-10-23",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-110447",
+      "vendor": "Collabora",
+      "product": "Collabora Online – Built-in CODE Server",
+      "name": "Collabora Online – Built-in CODE Server OS Command Injection Vulnerability",
+      "dateAdded": "2026-10-23",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-106931",
+      "vendor": "EG Secure Solutions",
+      "product": "SiteGuard Server Edition",
+      "name": "EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability",
+      "dateAdded": "2026-10-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-96656",
+      "vendor": "Plex",
+      "product": "Media Server",
+      "name": "Plex Media Server External Control of File Name or Path Vulnerability",
+      "dateAdded": "2026-10-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-96655",
+      "vendor": "Plex",
+      "product": "Media Server",
+      "name": "Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
+      "dateAdded": "2026-10-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-96654",
+      "vendor": "Plex",
+      "product": "Media Server",
+      "name": "Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability",
+      "dateAdded": "2026-10-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-96652",
+      "vendor": "Plex",
+      "product": "Media Server",
+      "name": "Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
+      "dateAdded": "2026-10-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-110936",
+      "vendor": "Siemens",
+      "product": "Software Center",
+      "name": "Siemens Software Center Uncontrolled Search Path Element Vulnerability",
+      "dateAdded": "2026-10-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-102764",
+      "vendor": "BeyondTrust",
+      "product": "Remote Support",
+      "name": "BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability",
+      "dateAdded": "2026-10-16",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-61624",
+      "vendor": "Fortinet",
+      "product": "Multiple Products",
+      "name": "Fortinet Multiple Products Path Traversal Vulnerability",
+      "dateAdded": "2026-10-16",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-21589",
+      "vendor": "Atlassian",
+      "product": "Multiple Products",
+      "name": "Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability",
+      "dateAdded": "2026-10-15",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-105134",
+      "vendor": "Ahsay",
+      "product": "AhsayCBS",
+      "name": "Ahsay AhsayCBS Command Injection Vulnerability",
+      "dateAdded": "2026-10-14",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-76519",
+      "vendor": "Cisco",
+      "product": "Secure Email Gateway",
+      "name": "Cisco Secure Email Gateway Relative Path Traversal Vulnerability",
+      "dateAdded": "2026-10-14",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-105133",
+      "vendor": "Ahsay",
+      "product": "AhsayCBS",
+      "name": "Ahsay AhsayCBS Improper Authentication Vulnerability",
+      "dateAdded": "2026-10-14",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-0322",
+      "vendor": "Palo Alto Networks",
+      "product": "PAN-OS",
+      "name": "Palo Alto Networks PAN-OS Code Injection Vulnerability",
+      "dateAdded": "2026-10-14",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-104935",
+      "vendor": "Ivanti",
+      "product": "Connect Secure",
+      "name": "Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability",
+      "dateAdded": "2026-10-13",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-96951",
+      "vendor": "Microsoft",
+      "product": "Windows",
+      "name": "Microsoft Windows Command Injection Vulnerability",
+      "dateAdded": "2026-10-13",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2015-5477",
+      "vendor": "ISC",
+      "product": "BIND",
+      "name": " ISC BIND Data Processing Errors Vulnerability",
+      "dateAdded": "2026-10-08",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2016-3081",
+      "vendor": "Apache",
+      "product": "Struts",
+      "name": "Apache Struts Command Injection Vulnerability",
+      "dateAdded": "2026-10-08",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2023-22894",
+      "vendor": "Strapi",
+      "product": "Strapi",
+      "name": "Strapi Cleartext Storage of Sensitive Information Vulnerability",
+      "dateAdded": "2026-10-08",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2021-3199",
+      "vendor": "ONLYOFFICE",
+      "product": "Docs",
+      "name": "ONLYOFFICE Docs Server Path Traversal Vulnerability",
+      "dateAdded": "2026-10-08",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2015-3306",
+      "vendor": "ProFTPD",
+      "product": "ProFTPD",
+      "name": "ProFTPD Improper Access Control Vulnerability",
+      "dateAdded": "2026-10-08",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-88779",
+      "vendor": "Citrix",
+      "product": "NetScaler",
+      "name": "Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
+      "dateAdded": "2026-10-04",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-102490",
+      "vendor": "Zammad GmbH",
+      "product": "Zammad",
+      "name": "Zammad GmbH Zammad Improper Privilege Management Vulnerability",
+      "dateAdded": "2026-10-02",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-102489",
+      "vendor": "Zammad GmbH",
+      "product": "Zammad",
+      "name": "Zammad GmbH Zammad Session Fixation Vulnerability",
+      "dateAdded": "2026-10-02",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-104286",
+      "vendor": "Fortinet",
+      "product": "FortiMail",
+      "name": "Fortinet FortiMail Path Traversal Vulnerability",
+      "dateAdded": "2026-10-01",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-76504",
+      "vendor": "Cisco",
+      "product": "Catalyst SD-WAN Manager",
+      "name": "Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability",
+      "dateAdded": "2026-09-30",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-86950",
+      "vendor": "Apple",
+      "product": "Multiple Products",
+      "name": "Apple Multiple Products Out-of-Bounds Write Vulnerability",
+      "dateAdded": "2026-09-29",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-88772",
+      "vendor": "Citrix",
+      "product": "NetScaler",
+      "name": "Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
+      "dateAdded": "2026-09-27",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-88771",
+      "vendor": "Citrix",
+      "product": "NetScaler",
+      "name": "Citrix NetScaler Improper Input Validation Vulnerability",
+      "dateAdded": "2026-09-27",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-67279",
+      "vendor": "MikroTik",
+      "product": "RouterOS",
+      "name": "Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability",
+      "dateAdded": "2026-09-25",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-65660",
+      "vendor": "Microsoft",
+      "product": "SharePoint",
+      "name": "Microsoft SharePoint Code Injection Vulnerability",
+      "dateAdded": "2026-09-25",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-87902",
+      "vendor": "WordPress",
+      "product": "Core",
+      "name": "WordPress Core Remote File Inclusion Vulnerability",
+      "dateAdded": "2026-09-25",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-5430",
+      "vendor": "WSO2",
+      "product": "Multiple Products",
+      "name": "WSO2 Multiple Products Path Traversal Vulnerability ",
+      "dateAdded": "2026-09-24",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-71362",
+      "vendor": "Adobe",
+      "product": "Commerce and Magento ",
+      "name": "Adobe Commerce and Magento Incorrect Authorization Vulnerability ",
+      "dateAdded": "2026-09-24",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-93952",
+      "vendor": "Arista",
+      "product": "VeloCloud Orchestrator",
+      "name": "Arista VeloCloud Orchestrator Improper Input Validation Vulnerability",
+      "dateAdded": "2026-09-22",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-94127",
+      "vendor": "F5",
+      "product": "BIG-IP APM",
+      "name": "F5 BIG-IP APM Heap-based Buffer Overflow Vulnerability",
+      "dateAdded": "2026-09-22",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-93616",
+      "vendor": "Check Point",
+      "product": "Multiple Products",
+      "name": "Check Point Multiple Products Path Traversal Vulnerability",
+      "dateAdded": "2026-09-22",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-85102",
+      "vendor": "Check Point",
+      "product": "Multiple Products",
+      "name": "Check Point Multiple Products Improper Certificate Validation Vulnerability",
+      "dateAdded": "2026-09-22",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-7273",
+      "vendor": "Zyxel",
+      "product": "GS1900 Series Switches",
+      "name": "Zyxel GS1900 Series Switches Stack-Based Buffer Overflow Vulnerability",
+      "dateAdded": "2026-09-21",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-39964",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Race Condition Vulnerability",
+      "dateAdded": "2026-09-18",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-53266",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Out-of-Bounds Write Vulnerability",
+      "dateAdded": "2026-09-18",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-39682",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability",
+      "dateAdded": "2026-09-18",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-58704",
+      "vendor": "Google",
+      "product": "Pixel",
+      "name": "Google Pixel Improper Authorization Vulnerability",
+      "dateAdded": "2026-09-16",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-76460",
+      "vendor": "Cisco",
+      "product": "Identity Services Engine",
+      "name": "Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability",
+      "dateAdded": "2026-09-16",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-87886",
+      "vendor": "Acronis",
+      "product": "Backup",
+      "name": "Acronis Backup Incorrect Default Permissions Vulnerability",
+      "dateAdded": "2026-09-16",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-76461",
+      "vendor": "Cisco",
+      "product": "Secure Email Gateway",
+      "name": "Cisco Secure Email Gateway SQL Injection Vulnerability",
+      "dateAdded": "2026-09-14",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-84869",
+      "vendor": "ConnectWise",
+      "product": "ScreenConnect",
+      "name": "ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability",
+      "dateAdded": "2026-09-11",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-42016",
+      "vendor": "JFrog",
+      "product": "Artifactory",
+      "name": "JFrog Artifactory Incorrect Authorization Vulnerability",
+      "dateAdded": "2026-09-11",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-42018",
+      "vendor": "JFrog",
+      "product": "Artifactory",
+      "name": "JFrog Artifactory Improper Authentication Vulnerability",
+      "dateAdded": "2026-09-11",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-85706",
+      "vendor": "GitLab",
+      "product": "Community Edition and Enterprise Edition",
+      "name": "GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability",
+      "dateAdded": "2026-09-11",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-86060",
+      "vendor": "MikroTik",
+      "product": "RouterOS",
+      "name": "MikroTik RouterOS Improper Neutralization of Argument Delimiters in a Command Vulnerability",
+      "dateAdded": "2026-09-10",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-67277",
+      "vendor": "MikroTik",
+      "product": "RouterOS",
+      "name": "MikroTik RouterOS Missing Authentication for Critical Function Vulnerability",
+      "dateAdded": "2026-09-10",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-19490",
+      "vendor": "Citrix",
+      "product": "NetScaler",
+      "name": "Citrix NetScaler Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+      "dateAdded": "2026-09-09",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-25249",
+      "vendor": "Fortinet",
+      "product": "Multiple Products",
+      "name": "Fortinet Multiple Products Heap-based Buffer Overflow Vulnerability",
+      "dateAdded": "2026-09-09",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-87491",
+      "vendor": "Google",
+      "product": "Chromium V8",
+      "name": "Google Chromium V8 Out of Bounds Write Vulnerability",
+      "dateAdded": "2026-09-09",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-20079",
+      "vendor": "Cisco",
+      "product": "Secure Firewall Management Center (FMC) and Security Cloud Control (SCC) Firewall Management",
+      "name": "Cisco Firewall Management Center Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+      "dateAdded": "2026-09-09",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-75650",
+      "vendor": "Adobe",
+      "product": "Commerce and Magento",
+      "name": "Adobe Commerce and Magento Improper Neutralization of Special Elements Used in a Template Engine Vulnerability",
+      "dateAdded": "2026-09-08",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-81963",
+      "vendor": "Microsoft",
+      "product": "Windows",
+      "name": "Microsoft Windows Link Following Vulnerability",
+      "dateAdded": "2026-09-08",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-86218",
+      "vendor": "N-able",
+      "product": "N-central",
+      "name": "N-able N-central Static Code Injection Vulnerability",
+      "dateAdded": "2026-09-08",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-85880",
+      "vendor": "Microsoft",
+      "product": "Windows",
+      "name": "Microsoft Windows Heap-Based Buffer Overflow Vulnerability",
+      "dateAdded": "2026-09-08",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-85046",
+      "vendor": "Google",
+      "product": "Chromium V8",
+      "name": "Google Chromium V8 Type Confusion Vulnerability",
+      "dateAdded": "2026-09-04",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-59822",
+      "vendor": "BerriAI",
+      "product": "LiteLLM",
+      "name": "BerriAI LiteLLM Improper Authentication Vulnerability",
+      "dateAdded": "2026-09-02",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-48710",
+      "vendor": "Kludex",
+      "product": "Starlette",
+      "name": "Kludex Starlette HTTP Request/Response Smuggling Vulnerability",
+      "dateAdded": "2026-09-02",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-49869",
+      "vendor": "Kestra",
+      "product": "Kestra OSS",
+      "name": "Kestra OSS OS Command Injection Vulnerability",
+      "dateAdded": "2026-09-02",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-82329",
+      "vendor": "JFrog",
+      "product": "Artifactory",
+      "name": "JFrog Artifactory Improper Authentication Vulnerability",
+      "dateAdded": "2026-09-02",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-9586",
+      "vendor": "Sangoma",
+      "product": "Switchvox",
+      "name": "Sangoma Switchvox SQL Injection Vulnerability",
+      "dateAdded": "2026-09-02",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-83548",
+      "vendor": "SonicWall",
+      "product": "SMA1000 Appliances",
+      "name": "SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability",
+      "dateAdded": "2026-09-02",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-83549",
+      "vendor": "SonicWall",
+      "product": "SMA1000 Appliances",
+      "name": "SonicWall SMA1000 Appliances OS Command Injection Vulnerability",
+      "dateAdded": "2026-09-02",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-82078",
+      "vendor": "PaperCut",
+      "product": "NG/MF",
+      "name": "PaperCut NG/MF Unsafe Reflection Vulnerability",
+      "dateAdded": "2026-08-31",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-81578",
+      "vendor": "PaperCut",
+      "product": "NG/MF",
+      "name": "PaperCut NG/MF Missing Authentication for Critical Function Vulnerability",
+      "dateAdded": "2026-08-31",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2023-49105",
+      "vendor": "ownCloud",
+      "product": "ownCloud",
+      "name": "ownCloud Improper Authentication Vulnerability",
+      "dateAdded": "2026-08-27",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-53362",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Unspecified Vulnerability",
+      "dateAdded": "2026-08-27",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-66384",
+      "vendor": "JFrog",
+      "product": "Artifactory",
+      "name": "JFrog Artifactory Improper Limitation of a Pathname to a Restricted Directory Vulnerability",
+      "dateAdded": "2026-08-27",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2021-23758",
+      "vendor": "Ajax.NET Professional",
+      "product": "Ajax.NET Professional",
+      "name": "Ajax.NET Professional Deserialization of Untrusted Data Vulnerability",
+      "dateAdded": "2026-08-26",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2015-3246",
+      "vendor": "Red Hat",
+      "product": "Libuser",
+      "name": "Red Hat Libuser Race Condition Vulnerability",
+      "dateAdded": "2026-08-26",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2015-5287",
+      "vendor": "Red Hat",
+      "product": "Automatic Bug Reporting Tool",
+      "name": "Red Hat Automatic Bug Reporting Tool Privilege Escalation Vulnerability",
+      "dateAdded": "2026-08-26",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2022-0995",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Out-of-Bounds Write Vulnerability",
+      "dateAdded": "2026-08-26",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-8452",
+      "vendor": "Citrix",
+      "product": "NetScaler ADC and NetScaler Gateway",
+      "name": "Citrix NetScaler ADC and NetScaler Gateway Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
+      "dateAdded": "2026-08-26",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2019-1068",
+      "vendor": "Microsoft",
+      "product": "SQL Server",
+      "name": "Microsoft SQL Server Remote Code Execution Vulnerability",
+      "dateAdded": "2026-08-26",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-60004",
+      "vendor": "Gitea",
+      "product": "Gitea",
+      "name": "Gitea Code Injection Vulnerability",
+      "dateAdded": "2026-08-25",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-21962",
+      "vendor": "Oracle",
+      "product": "HTTP Server and Oracle Weblogic Server Proxy Plug-in",
+      "name": "Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in Improper Access Control Vulnerability",
+      "dateAdded": "2026-08-24",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-73570",
+      "vendor": "Synacor",
+      "product": "Zimbra Collaboration Suite (ZCS)",
+      "name": "Zimbra Collaboration Suite (ZCS) OS Command Injection Vulnerability",
+      "dateAdded": "2026-08-21",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-72530",
+      "vendor": "TrueConf",
+      "product": "Server",
+      "name": "TrueConf Server Code Injection Vulnerability",
+      "dateAdded": "2026-08-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-72529",
+      "vendor": "TrueConf",
+      "product": "Server",
+      "name": "TrueConf Server Missing Authentication for Critical Function Vulnerability",
+      "dateAdded": "2026-08-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-64849",
+      "vendor": "MLflow",
+      "product": "MLflow",
+      "name": "MLflow Server-Side Request Forgery Vulnerability",
+      "dateAdded": "2026-08-19",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-33824",
+      "vendor": "Microsoft",
+      "product": "Internet Key Exchange (IKE) Service Extensions",
+      "name": "Microsoft Internet Key Exchange (IKE) Service Extensions Double Free Vulnerability",
+      "dateAdded": "2026-08-18",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-59310",
+      "vendor": "Broadcom",
+      "product": "VMware vCenter",
+      "name": "Broadcom VMware vCenter Path Traversal Vulnerability",
+      "dateAdded": "2026-08-18",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2026-55040",
+      "vendor": "Microsoft",
+      "product": "SharePoint",
+      "name": "Microsoft SharePoint Weak Authentication Vulnerability",
+      "dateAdded": "2026-08-18",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-65400",
+      "vendor": "Apple",
+      "product": "macOS",
+      "name": "Apple macOS Improper Authentication Vulnerability",
+      "dateAdded": "2026-08-18",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-62593",
+      "vendor": "Ray-Project",
+      "product": "Ray",
+      "name": "Ray-Project Ray Code Injection Vulnerability",
+      "dateAdded": "2026-08-17",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-20349",
+      "vendor": "Cisco",
+      "product": "Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) ",
+      "name": "Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) Heap Inspection Vulnerability",
+      "dateAdded": "2026-08-11",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-68820",
+      "vendor": "Microsoft",
+      "product": "Windows Ancillary Function Driver for WinSock ",
+      "name": "Microsoft Windows Ancillary Function Driver for WinSock Use-After-Free Vulnerability",
+      "dateAdded": "2026-08-11",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-72898",
+      "vendor": "Metabase",
+      "product": "Metabase",
+      "name": "Metabase SQL Injection Vulnerability",
+      "dateAdded": "2026-08-11",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-8037",
+      "vendor": "Progress",
+      "product": "LoadMaster",
+      "name": "Progress LoadMaster Command Injection Vulnerability",
+      "dateAdded": "2026-08-07",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-63077",
+      "vendor": "JetBrains",
+      "product": "TeamCity",
+      "name": "JetBrains TeamCity Deserialization of Untrusted Data Vulnerability",
+      "dateAdded": "2026-08-05",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2026-18556",
+      "vendor": "N-able",
+      "product": "N-central",
+      "name": "N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+      "dateAdded": "2026-08-04",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-34486",
+      "vendor": "Apache",
+      "product": "Tomcat",
+      "name": "Apache Tomcat Missing Encryption of Sensitive Data Vulnerability",
+      "dateAdded": "2026-08-04",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-9198",
+      "vendor": "IBM",
+      "product": "Langflow",
+      "name": "IBM Langflow Code Injection Vulnerability",
+      "dateAdded": "2026-08-04",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-18577",
+      "vendor": "N-able",
+      "product": "N-central",
+      "name": "N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+      "dateAdded": "2026-08-03",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-20316",
+      "vendor": "Cisco",
+      "product": "Secure Firewall Management Center (FMC)",
+      "name": "Cisco Secure Firewall Management Center Use of Hard-coded Password Vulnerability",
+      "dateAdded": "2026-07-29",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2025-68686",
+      "vendor": "Fortinet",
+      "product": "FortiOS",
+      "name": "Fortinet FortiOS Exposure of Sensitive Information to an Unauthorized Actor Vulnerability",
+      "dateAdded": "2026-07-27",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-16812",
+      "vendor": "Arista",
+      "product": "VeloCloud Orchestrator",
+      "name": "Arista VeloCloud Orchestrator On-Prem OS Command Injection Vulnerability",
+      "dateAdded": "2026-07-27",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-16232",
+      "vendor": "Check Point",
+      "product": "SmartConsole",
+      "name": "Check Point SmartConsole Improper Authentication Vulnerability",
+      "dateAdded": "2026-07-22",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-50522",
+      "vendor": "Microsoft",
+      "product": "SharePoint",
+      "name": "Microsoft SharePoint Deserialization of Untrusted Data Vulnerability ",
+      "dateAdded": "2026-07-22",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-60137",
+      "vendor": "WordPress",
+      "product": "Core",
+      "name": "WordPress Core SQL Injection Vulnerability",
+      "dateAdded": "2026-07-21",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-63030",
+      "vendor": "WordPress",
+      "product": "Core",
+      "name": "WordPress Core Interpretation Conflict Vulnerability",
+      "dateAdded": "2026-07-21",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-0770",
+      "vendor": "Langflow",
+      "product": "Langflow",
+      "name": "Langflow Inclusion of Functionality from Untrusted Control Sphere Vulnerability",
+      "dateAdded": "2026-07-21",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2021-27137",
+      "vendor": "DD-WRT",
+      "product": "DD-WRT",
+      "name": "DD-WRT Stack-Based Buffer Overflow Vulnerability",
+      "dateAdded": "2026-07-21",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-58644",
+      "vendor": "Microsoft",
+      "product": "SharePoint",
+      "name": "Microsoft SharePoint Deserialization of Untrusted Data Vulnerability",
+      "dateAdded": "2026-07-16",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-25089",
+      "vendor": "Fortinet",
+      "product": "FortiSandbox",
+      "name": "Fortinet FortiSandbox OS Command Injection Vulnerability",
+      "dateAdded": "2026-07-16",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-39808",
+      "vendor": "Fortinet",
+      "product": "FortiSandbox",
+      "name": "Fortinet FortiSandbox OS Command Injection Vulnerability",
+      "dateAdded": "2026-07-16",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-46817",
+      "vendor": "Oracle",
+      "product": "E-Business Suite",
+      "name": "Oracle E-Business Suite Improper Privilege Management Vulnerability",
+      "dateAdded": "2026-07-15",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2023-4346",
+      "vendor": "KNX Association",
+      "product": "KNX Protocol Connection Authorization Option 1",
+      "name": "KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism Vulnerability",
+      "dateAdded": "2026-07-15",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-56155",
+      "vendor": "Microsoft",
+      "product": "Active Directory Federation Services",
+      "name": "Microsoft Active Directory Federation Services Insufficient Granularity of Access Control Vulnerability ",
+      "dateAdded": "2026-07-14",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-56164",
+      "vendor": "Microsoft",
+      "product": "SharePoint Server",
+      "name": "Microsoft SharePoint Server Missing Authentication for Critical Function Vulnerability",
+      "dateAdded": "2026-07-14",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-15409",
+      "vendor": "SonicWall",
+      "product": "SMA1000 Appliances",
+      "name": "SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability",
+      "dateAdded": "2026-07-14",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2026-15410",
+      "vendor": "SonicWall",
+      "product": "SMA1000 Appliances",
+      "name": "SonicWall SMA1000 Appliances Code Injection Vulnerability",
+      "dateAdded": "2026-07-14",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2008-4128",
+      "vendor": "Cisco",
+      "product": "IOS",
+      "name": "Cisco IOS Cross-Site Request Forgery Vulnerability",
+      "dateAdded": "2026-07-13",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-56291",
+      "vendor": "Balbooa",
+      "product": "Forms",
+      "name": "Balbooa Forms Unrestricted Upload of File with Dangerous Type Vulnerability",
+      "dateAdded": "2026-07-10",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-48939",
+      "vendor": "iCagenda",
+      "product": "iCagenda",
+      "name": "iCagenda Unrestricted Upload of File with Dangerous Type Vulnerability",
+      "dateAdded": "2026-07-10",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-48908",
+      "vendor": "JoomShaper",
+      "product": "SP Page Builder",
+      "name": "JoomShaper SP Page Builder Unrestricted Upload of File with Dangerous Type Vulnerability",
+      "dateAdded": "2026-07-07",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-55255",
+      "vendor": "Langflow",
+      "product": "Langflow",
+      "name": "Langflow Authorization Bypass Through User-Controlled Key Vulnerability",
+      "dateAdded": "2026-07-07",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-56290",
+      "vendor": "Joomlack",
+      "product": "Page Builder",
+      "name": "Joomlack Page Builder Improper Access Control Vulnerability",
+      "dateAdded": "2026-07-07",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-48282",
+      "vendor": "Adobe",
+      "product": "ColdFusion",
+      "name": "Adobe ColdFusion Path Traversal Vulnerability",
+      "dateAdded": "2026-07-07",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-45659",
+      "vendor": "Microsoft",
+      "product": "SharePoint Server",
+      "name": "Microsoft SharePoint Server Deserialization of Untrusted Data Vulnerability",
+      "dateAdded": "2026-07-01",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2026-48558",
+      "vendor": "SimpleHelp ",
+      "product": "SimpleHelp",
+      "name": "SimpleHelp Authentication Bypass Vulnerability",
+      "dateAdded": "2026-06-29",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-12569",
+      "vendor": "PTC",
+      "product": "Windchill and FlexPLM",
+      "name": "PTC Windchill and FlexPLM Improper Input Validation Vulnerability",
+      "dateAdded": "2026-06-25",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2026-20230",
+      "vendor": "Cisco",
+      "product": "Unified Communications Manager",
+      "name": "Cisco Unified Communications Manager Server-Side Request Forgery (SSRF) Vulnerability",
+      "dateAdded": "2026-06-25",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-67038",
+      "vendor": "Lantronix",
+      "product": "EDS5000",
+      "name": "Lantronix EDS5000 Code Injection Vulnerability",
+      "dateAdded": "2026-06-23",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-34910",
+      "vendor": "Ubiquiti",
+      "product": "UniFi OS",
+      "name": "Ubiquiti UniFi OS Improper Input Validation Vulnerability",
+      "dateAdded": "2026-06-23",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-34909",
+      "vendor": "Ubiquiti",
+      "product": "UniFi OS",
+      "name": "Ubiquiti UniFi OS Path Traversal Vulnerability",
+      "dateAdded": "2026-06-23",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-34908",
+      "vendor": "Ubiquiti",
+      "product": "UniFi OS",
+      "name": "Ubiquiti UniFi OS Improper Access Control Vulnerability",
+      "dateAdded": "2026-06-23",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-20253",
+      "vendor": "Splunk",
+      "product": "Enterprise",
+      "name": "Splunk Enterprise Missing Authentication for Critical Function Vulnerability",
+      "dateAdded": "2026-06-18",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-48907",
+      "vendor": "Widget Factory",
+      "product": "Joomla Content Editor ",
+      "name": "Widget Factory Joomla Content Editor Improper Access Control Vulnerability",
+      "dateAdded": "2026-06-16",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-54420",
+      "vendor": "LiteSpeed",
+      "product": "cPanel Plugin",
+      "name": "LiteSpeed cPanel Plugin UNIX Symbolic Link (Symlink) Following Vulnerability",
+      "dateAdded": "2026-06-15",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-20262",
+      "vendor": "Cisco",
+      "product": "Catalyst SD-WAN Manager",
+      "name": "Cisco Catalyst SD-WAN Manager Directory or Path Traversal Vulnerability",
+      "dateAdded": "2026-06-15",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-35273",
+      "vendor": "Oracle",
+      "product": " PeopleSoft Enterprise PeopleTools",
+      "name": "Oracle PeopleSoft Enterprise PeopleTools Missing Authentication for Critical Function Vulnerability",
+      "dateAdded": "2026-06-12",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2026-10520",
+      "vendor": "Ivanti",
+      "product": "Sentry",
+      "name": "Ivanti Sentry OS Command Injection Vulnerability",
+      "dateAdded": "2026-06-11",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-11645",
+      "vendor": "Google",
+      "product": "Chromium V8",
+      "name": "Google Chromium V8 Out-of-Bounds Read and Write Vulnerability",
+      "dateAdded": "2026-06-09",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-7473",
+      "vendor": "Arista",
+      "product": "Extensible Operating System",
+      "name": "Arista Extensible Operating System Incomplete Comparison with Missing Factors Vulnerability",
+      "dateAdded": "2026-06-09",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-20245",
+      "vendor": "Cisco",
+      "product": "Catalyst SD-WAN Manager",
+      "name": "Cisco Catalyst SD-WAN Manager Improper Encoding or Escaping of Output Vulnerability",
+      "dateAdded": "2026-06-09",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-42271",
+      "vendor": "BerriAI",
+      "product": "LiteLLM",
+      "name": "BerriAI LiteLLM Command Injection Vulnerability",
+      "dateAdded": "2026-06-08",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-50751",
+      "vendor": "Check Point",
+      "product": "Security Gateway",
+      "name": "Check Point Security Gateway Improper Authentication Vulnerability",
+      "dateAdded": "2026-06-08",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2026-28318",
+      "vendor": "SolarWinds",
+      "product": "Serv-U",
+      "name": "SolarWinds Serv-U Uncontrolled Resource Consumption Vulnerability",
+      "dateAdded": "2026-06-05",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-45247",
+      "vendor": "Mirasvit",
+      "product": "Mirasvit Full Page Cache Warmer",
+      "name": "Mirasvit Full Page Cache Warmer Deserialization of Untrusted Data Vulnerability",
+      "dateAdded": "2026-06-03",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2022-0492",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Improper Authentication Vulnerability",
+      "dateAdded": "2026-06-02",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-48595",
+      "vendor": "Android",
+      "product": "Framework",
+      "name": "Android Framework Integer Overflow Vulnerability",
+      "dateAdded": "2026-06-02",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2024-21182",
+      "vendor": "Oracle",
+      "product": "WebLogic Server",
+      "name": "Oracle WebLogic Server Unspecified Vulnerability",
+      "dateAdded": "2026-06-01",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-0257",
+      "vendor": "Palo Alto Networks",
+      "product": "PAN-OS",
+      "name": "Palo Alto Networks PAN-OS Authentication Bypass Vulnerability",
+      "dateAdded": "2026-05-29",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2026-48027",
+      "vendor": "Nx",
+      "product": "Nx Console",
+      "name": "Nx Console Embedded Malicious Code Vulnerability",
+      "dateAdded": "2026-05-27",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2026-45321",
+      "vendor": "TanStack",
+      "product": "TanStack",
+      "name": "TanStack Unspecified Vulnerability",
+      "dateAdded": "2026-05-27",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2026-8398",
+      "vendor": "Daemon",
+      "product": "Daemon Tools Lite",
+      "name": "Daemon Tools Lite Embedded Malicious Code Vulnerability",
+      "dateAdded": "2026-05-27",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-48172",
+      "vendor": "LiteSpeed",
+      "product": "cPanel Plugin",
+      "name": "LiteSpeed cPanel Plugin Privilege Escalation Vulnerability",
+      "dateAdded": "2026-05-26",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-9082",
+      "vendor": "Drupal",
+      "product": "Core",
+      "name": "Drupal Core SQL Injection Vulnerability",
+      "dateAdded": "2026-05-22",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-34291",
+      "vendor": "Langflow",
+      "product": "Langflow",
+      "name": "Langflow Origin Validation Error Vulnerability",
+      "dateAdded": "2026-05-21",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-34926",
+      "vendor": "Trend Micro",
+      "product": "Apex One",
+      "name": "Trend Micro Apex One (On-Premise) Directory Traversal Vulnerability",
+      "dateAdded": "2026-05-21",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2008-4250",
+      "vendor": "Microsoft",
+      "product": "Windows",
+      "name": "Microsoft Windows Buffer Overflow Vulnerability",
+      "dateAdded": "2026-05-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2009-1537",
+      "vendor": "Microsoft",
+      "product": "DirectX",
+      "name": "Microsoft DirectX NULL Byte Overwrite Vulnerability",
+      "dateAdded": "2026-05-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2009-3459",
+      "vendor": "Adobe",
+      "product": "Acrobat and Reader",
+      "name": "Adobe Acrobat and Reader Heap-Based Buffer Overflow Vulnerability",
+      "dateAdded": "2026-05-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2010-0249",
+      "vendor": "Microsoft",
+      "product": "Internet Explorer",
+      "name": "Microsoft Internet Explorer Use-After-Free Vulnerability",
+      "dateAdded": "2026-05-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2010-0806",
+      "vendor": "Microsoft",
+      "product": "Internet Explorer",
+      "name": "Microsoft Internet Explorer Use-After-Free Vulnerability",
+      "dateAdded": "2026-05-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-41091",
+      "vendor": "Microsoft",
+      "product": "Defender",
+      "name": "Microsoft Defender Link Following Vulnerability",
+      "dateAdded": "2026-05-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-45498",
+      "vendor": "Microsoft",
+      "product": "Defender",
+      "name": "Microsoft Defender Denial of Service Vulnerability",
+      "dateAdded": "2026-05-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-42897",
+      "vendor": "Microsoft",
+      "product": "Microsoft",
+      "name": "Microsoft Exchange Server Cross-Site Scripting Vulnerability",
+      "dateAdded": "2026-05-15",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-20182",
+      "vendor": "Cisco",
+      "product": "Catalyst SD-WAN",
+      "name": "Cisco Catalyst SD-WAN Controller Authentication Bypass Vulnerability",
+      "dateAdded": "2026-05-14",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-42208",
+      "vendor": "BerriAI",
+      "product": "LiteLLM",
+      "name": "BerriAI LiteLLM SQL Injection Vulnerability",
+      "dateAdded": "2026-05-08",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-6973",
+      "vendor": "Ivanti",
+      "product": "Endpoint Manager Mobile (EPMM)",
+      "name": "Ivanti Endpoint Manager Mobile (EPMM) Improper Input Validation Vulnerability",
+      "dateAdded": "2026-05-07",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-0300",
+      "vendor": "Palo Alto Networks",
+      "product": "PAN-OS",
+      "name": "Palo Alto Networks PAN-OS Out-of-bounds Write Vulnerability",
+      "dateAdded": "2026-05-06",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-31431",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Incorrect Resource Transfer Between Spheres Vulnerability",
+      "dateAdded": "2026-05-01",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-41940",
+      "vendor": "WebPros",
+      "product": "cPanel & WHM and WP2 (WordPress Squared)",
+      "name": "WebPros cPanel & WHM and WP2 (WordPress Squared) Missing Authentication for Critical Function Vulnerability",
+      "dateAdded": "2026-04-30",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2024-1708",
+      "vendor": "ConnectWise",
+      "product": "ScreenConnect",
+      "name": "ConnectWise ScreenConnect Path Traversal Vulnerability",
+      "dateAdded": "2026-04-28",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2026-32202",
+      "vendor": "Microsoft",
+      "product": "Windows",
+      "name": "Microsoft Windows Protection Mechanism Failure Vulnerability",
+      "dateAdded": "2026-04-28",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-29635",
+      "vendor": "D-Link",
+      "product": "DIR-823X",
+      "name": "D-Link DIR-823X Command Injection Vulnerability",
+      "dateAdded": "2026-04-24",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2024-7399",
+      "vendor": "Samsung",
+      "product": "MagicINFO 9 Server",
+      "name": "Samsung MagicINFO 9 Server Path Traversal Vulnerability",
+      "dateAdded": "2026-04-24",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2024-57728",
+      "vendor": "SimpleHelp ",
+      "product": "SimpleHelp",
+      "name": "SimpleHelp Path Traversal Vulnerability",
+      "dateAdded": "2026-04-24",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2024-57726",
+      "vendor": "SimpleHelp ",
+      "product": "SimpleHelp",
+      "name": "SimpleHelp Missing Authorization Vulnerability",
+      "dateAdded": "2026-04-24",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2026-39987",
+      "vendor": "Marimo",
+      "product": "Marimo",
+      "name": "Marimo Remote Code Execution Vulnerability",
+      "dateAdded": "2026-04-23",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-33825",
+      "vendor": "Microsoft",
+      "product": "Defender",
+      "name": "Microsoft Defender Insufficient Granularity of Access Control Vulnerability",
+      "dateAdded": "2026-04-22",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2026-20122",
+      "vendor": "Cisco",
+      "product": "Catalyst SD-WAN Manger",
+      "name": "Cisco Catalyst SD-WAN Manager Incorrect Use of Privileged APIs Vulnerability",
+      "dateAdded": "2026-04-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-20133",
+      "vendor": "Cisco",
+      "product": "Catalyst SD-WAN Manager",
+      "name": "Cisco Catalyst SD-WAN Manager Exposure of Sensitive Information to an Unauthorized Actor Vulnerability",
+      "dateAdded": "2026-04-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-2749",
+      "vendor": "Kentico",
+      "product": "Kentico Xperience",
+      "name": "Kentico Xperience Path Traversal Vulnerability",
+      "dateAdded": "2026-04-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2023-27351",
+      "vendor": "PaperCut",
+      "product": "NG/MF",
+      "name": "PaperCut NG/MF Improper Authentication Vulnerability",
+      "dateAdded": "2026-04-20",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2025-48700",
+      "vendor": "Synacor",
+      "product": "Zimbra Collaboration Suite (ZCS)",
+      "name": "Synacor Zimbra Collaboration Suite (ZCS) Cross-site Scripting Vulnerability",
+      "dateAdded": "2026-04-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-20128",
+      "vendor": "Cisco",
+      "product": "Catalyst SD-WAN Manager",
+      "name": "Cisco Catalyst SD-WAN Manager Storing Passwords in a Recoverable Format Vulnerability",
+      "dateAdded": "2026-04-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-32975",
+      "vendor": "Quest",
+      "product": "KACE Systems Management Appliance (SMA)",
+      "name": "Quest KACE Systems Management Appliance (SMA) Improper Authentication Vulnerability",
+      "dateAdded": "2026-04-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2024-27199",
+      "vendor": "JetBrains",
+      "product": "TeamCity",
+      "name": "JetBrains TeamCity Relative Path Traversal Vulnerability",
+      "dateAdded": "2026-04-20",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2026-34197",
+      "vendor": "Apache",
+      "product": "ActiveMQ",
+      "name": "Apache ActiveMQ Improper Input Validation Vulnerability",
+      "dateAdded": "2026-04-16",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2009-0238",
+      "vendor": "Microsoft",
+      "product": "Office",
+      "name": "Microsoft Office Remote Code Execution",
+      "dateAdded": "2026-04-14",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-32201",
+      "vendor": "Microsoft",
+      "product": "SharePoint Server",
+      "name": "Microsoft SharePoint Server Improper Input Validation Vulnerability",
+      "dateAdded": "2026-04-14",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2012-1854",
+      "vendor": "Microsoft",
+      "product": "Visual Basic for Applications (VBA)",
+      "name": "Microsoft Visual Basic for Applications Insecure Library Loading Vulnerability",
+      "dateAdded": "2026-04-13",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-60710",
+      "vendor": "Microsoft",
+      "product": "Windows",
+      "name": "Microsoft Windows Link Following Vulnerability",
+      "dateAdded": "2026-04-13",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2023-21529",
+      "vendor": "Microsoft",
+      "product": "Exchange Server",
+      "name": "Microsoft Exchange Server Deserialization of Untrusted Data Vulnerability",
+      "dateAdded": "2026-04-13",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2023-36424",
+      "vendor": "Microsoft",
+      "product": "Windows",
+      "name": "Microsoft Windows Out-of-Bounds Read Vulnerability",
+      "dateAdded": "2026-04-13",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2020-9715",
+      "vendor": "Adobe",
+      "product": "Acrobat",
+      "name": "Adobe Acrobat Use-After-Free Vulnerability",
+      "dateAdded": "2026-04-13",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-21643",
+      "vendor": "Fortinet",
+      "product": "FortiClient EMS",
+      "name": "Fortinet FortiClient EMS SQL Injection Vulnerability",
+      "dateAdded": "2026-04-13",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-34621",
+      "vendor": "Adobe",
+      "product": "Acrobat and Reader",
+      "name": "Adobe Acrobat and Reader Prototype Pollution Vulnerability",
+      "dateAdded": "2026-04-13",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-1340",
+      "vendor": "Ivanti",
+      "product": "Endpoint Manager Mobile (EPMM)",
+      "name": "Ivanti Endpoint Manager Mobile (EPMM) Code Injection Vulnerability",
+      "dateAdded": "2026-04-08",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-35616",
+      "vendor": "Fortinet",
+      "product": "FortiClient EMS",
+      "name": "Fortinet FortiClient EMS Improper Access Control Vulnerability",
+      "dateAdded": "2026-04-06",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-3502",
+      "vendor": "TrueConf",
+      "product": "Client",
+      "name": "TrueConf Client Download of Code Without Integrity Check Vulnerability",
+      "dateAdded": "2026-04-02",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-5281",
+      "vendor": "Google",
+      "product": "Dawn",
+      "name": "Google Dawn Use-After-Free Vulnerability",
+      "dateAdded": "2026-04-01",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-3055",
+      "vendor": "Citrix",
+      "product": "NetScaler",
+      "name": "Citrix NetScaler Out-of-Bounds Read Vulnerability",
+      "dateAdded": "2026-03-30",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-53521",
+      "vendor": "F5",
+      "product": "BIG-IP",
+      "name": "F5 BIG-IP Stack-Based Buffer Overflow Vulnerability",
+      "dateAdded": "2026-03-27",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-33634",
+      "vendor": "Aquasecurity",
+      "product": "Trivy",
+      "name": "Aquasecurity Trivy Embedded Malicious Code Vulnerability",
+      "dateAdded": "2026-03-26",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-33017",
+      "vendor": "Langflow",
+      "product": "Langflow",
+      "name": "Langflow Code Injection Vulnerability",
+      "dateAdded": "2026-03-25",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-32432",
+      "vendor": "Craft CMS",
+      "product": "Craft CMS",
+      "name": "Craft CMS Code Injection Vulnerability",
+      "dateAdded": "2026-03-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-54068",
+      "vendor": "Laravel",
+      "product": "Livewire",
+      "name": "Laravel Livewire Code Injection Vulnerability",
+      "dateAdded": "2026-03-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-43510",
+      "vendor": "Apple",
+      "product": "Multiple Products",
+      "name": "Apple Multiple Products Improper Locking Vulnerability",
+      "dateAdded": "2026-03-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-43520",
+      "vendor": "Apple",
+      "product": "Multiple Products",
+      "name": "Apple Multiple Products Classic Buffer Overflow Vulnerability",
+      "dateAdded": "2026-03-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-31277",
+      "vendor": "Apple",
+      "product": "Multiple Products",
+      "name": "Apple Multiple Products Buffer Overflow Vulnerability",
+      "dateAdded": "2026-03-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-20131",
+      "vendor": "Cisco",
+      "product": "Secure Firewall Management Center (FMC)",
+      "name": "Cisco Secure Firewall Management Center (FMC) Software and Cisco Security Cloud Control (SCC) Firewall Management Deserialization of Untrusted Data Vulnerability",
+      "dateAdded": "2026-03-19",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2025-66376",
+      "vendor": "Synacor",
+      "product": "Zimbra Collaboration Suite (ZCS)",
+      "name": "Synacor Zimbra Collaboration Suite (ZCS) Cross-Site Scripting Vulnerability",
+      "dateAdded": "2026-03-18",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-20963",
+      "vendor": "Microsoft",
+      "product": "SharePoint",
+      "name": "Microsoft SharePoint Deserialization of Untrusted Data Vulnerability",
+      "dateAdded": "2026-03-18",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-47813",
+      "vendor": "Wing FTP Server",
+      "product": "Wing FTP Server",
+      "name": "Wing FTP Server Information Disclosure Vulnerability",
+      "dateAdded": "2026-03-16",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-3910",
+      "vendor": "Google",
+      "product": "Chromium V8",
+      "name": "Google Chromium V8 Improper Restriction of Operations Within the Bounds of a Memory Buffer Vulnerability",
+      "dateAdded": "2026-03-13",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-3909",
+      "vendor": "Google",
+      "product": "Skia",
+      "name": "Google Skia Out-of-Bounds Write Vulnerability",
+      "dateAdded": "2026-03-13",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-68613",
+      "vendor": "n8n",
+      "product": "n8n",
+      "name": "n8n Improper Control of Dynamically-Managed Code Resources Vulnerability",
+      "dateAdded": "2026-03-11",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2021-22054",
+      "vendor": "Omnissa",
+      "product": "Workspace One UEM",
+      "name": "Omnissa Workspace ONE Server-Side Request Forgery",
+      "dateAdded": "2026-03-09",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-26399",
+      "vendor": "SolarWinds",
+      "product": "Web Help Desk",
+      "name": "SolarWinds Web Help Desk Deserialization of Untrusted Data Vulnerability",
+      "dateAdded": "2026-03-09",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2026-1603",
+      "vendor": "Ivanti",
+      "product": " Endpoint Manager (EPM)",
+      "name": "Ivanti Endpoint Manager (EPM) Authentication Bypass Vulnerability",
+      "dateAdded": "2026-03-09",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2017-7921",
+      "vendor": "Hikvision",
+      "product": "Multiple Products",
+      "name": "Hikvision Multiple Products Improper Authentication Vulnerability",
+      "dateAdded": "2026-03-05",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2021-22681",
+      "vendor": "Rockwell",
+      "product": "Multiple Products",
+      "name": "Rockwell Multiple Products Insufficient Protected Credentials Vulnerability",
+      "dateAdded": "2026-03-05",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2023-43000",
+      "vendor": "Apple",
+      "product": "Multiple Products",
+      "name": "Apple Multiple products Use-After-Free Vulnerability",
+      "dateAdded": "2026-03-05",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2021-30952",
+      "vendor": "Apple",
+      "product": "Multiple Products",
+      "name": "Apple Multiple Products Integer Overflow or Wraparound Vulnerability",
+      "dateAdded": "2026-03-05",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2023-41974",
+      "vendor": "Apple",
+      "product": "iOS and iPadOS",
+      "name": "Apple iOS and iPadOS Use-After-Free Vulnerability",
+      "dateAdded": "2026-03-05",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-22719",
+      "vendor": "Broadcom",
+      "product": "VMware Aria Operations",
+      "name": "Broadcom VMware Aria Operations Command Injection Vulnerability",
+      "dateAdded": "2026-03-03",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-21385",
+      "vendor": "Qualcomm",
+      "product": "Multiple Chipsets",
+      "name": "Qualcomm Multiple Chipsets Memory Corruption Vulnerability",
+      "dateAdded": "2026-03-03",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2022-20775",
+      "vendor": "Cisco",
+      "product": "SD-WAN",
+      "name": "Cisco SD-WAN Path Traversal Vulnerability",
+      "dateAdded": "2026-02-25",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-20127",
+      "vendor": "Cisco",
+      "product": "Catalyst SD-WAN Controller and Manager",
+      "name": "Cisco Catalyst SD-WAN Controller and Manager Authentication Bypass Vulnerability",
+      "dateAdded": "2026-02-25",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-25108",
+      "vendor": "Soliton Systems K.K",
+      "product": "FileZen",
+      "name": "Soliton Systems K.K FileZen OS Command Injection Vulnerability",
+      "dateAdded": "2026-02-24",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-49113",
+      "vendor": "Roundcube",
+      "product": "Webmail",
+      "name": "RoundCube Webmail Deserialization of Untrusted Data Vulnerability",
+      "dateAdded": "2026-02-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-68461",
+      "vendor": "Roundcube",
+      "product": "Webmail",
+      "name": "RoundCube Webmail Cross-site Scripting Vulnerability",
+      "dateAdded": "2026-02-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2021-22175",
+      "vendor": "GitLab",
+      "product": "GitLab",
+      "name": "GitLab Server-Side Request Forgery (SSRF) Vulnerability",
+      "dateAdded": "2026-02-18",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-22769",
+      "vendor": "Dell",
+      "product": "RecoverPoint for Virtual Machines (RP4VMs)",
+      "name": "Dell RecoverPoint for Virtual Machines (RP4VMs) Use of Hard-coded Credentials Vulnerability",
+      "dateAdded": "2026-02-18",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2020-7796",
+      "vendor": "Synacor",
+      "product": "Zimbra Collaboration Suite",
+      "name": "Synacor Zimbra Collaboration Suite (ZCS) Server-Side Request Forgery Vulnerability",
+      "dateAdded": "2026-02-17",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2024-7694",
+      "vendor": "TeamT5",
+      "product": "ThreatSonar Anti-Ransomware",
+      "name": "TeamT5 ThreatSonar Anti-Ransomware Unrestricted Upload of File with Dangerous Type Vulnerability",
+      "dateAdded": "2026-02-17",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2008-0015",
+      "vendor": "Microsoft",
+      "product": "Windows",
+      "name": " Microsoft Windows Video ActiveX Control Remote Code Execution Vulnerability",
+      "dateAdded": "2026-02-17",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-2441",
+      "vendor": "Google",
+      "product": "Chromium",
+      "name": "Google Chromium CSS Use-After-Free Vulnerability",
+      "dateAdded": "2026-02-17",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-1731",
+      "vendor": "BeyondTrust",
+      "product": "Remote Support (RS) and Privileged Remote Access (PRA)",
+      "name": "BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) OS Command Injection Vulnerability",
+      "dateAdded": "2026-02-13",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2026-20700",
+      "vendor": "Apple",
+      "product": "Multiple Products",
+      "name": "Apple Multiple Buffer Overflow Vulnerability",
+      "dateAdded": "2026-02-12",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2024-43468",
+      "vendor": "Microsoft",
+      "product": "Configuration Manager",
+      "name": "Microsoft Configuration Manager SQL Injection Vulnerability",
+      "dateAdded": "2026-02-12",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-15556",
+      "vendor": "Notepad++",
+      "product": "Notepad++",
+      "name": "Notepad++ Download of Code Without Integrity Check Vulnerability",
+      "dateAdded": "2026-02-12",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-40536",
+      "vendor": "SolarWinds",
+      "product": "Web Help Desk",
+      "name": "SolarWinds Web Help Desk Security Control Bypass Vulnerability",
+      "dateAdded": "2026-02-12",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-21513",
+      "vendor": "Microsoft",
+      "product": "Windows",
+      "name": "Microsoft MSHTML Framework Protection Mechanism Failure Vulnerability",
+      "dateAdded": "2026-02-10",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-21525",
+      "vendor": "Microsoft",
+      "product": "Windows",
+      "name": "Microsoft Windows NULL Pointer Dereference Vulnerability",
+      "dateAdded": "2026-02-10",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-21510",
+      "vendor": "Microsoft",
+      "product": "Windows",
+      "name": "Microsoft Windows Shell Protection Mechanism Failure Vulnerability",
+      "dateAdded": "2026-02-10",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-21533",
+      "vendor": "Microsoft",
+      "product": "Windows",
+      "name": "Microsoft Windows Improper Privilege Management Vulnerability",
+      "dateAdded": "2026-02-10",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-21519",
+      "vendor": "Microsoft",
+      "product": "Windows",
+      "name": "Microsoft Windows Type Confusion Vulnerability",
+      "dateAdded": "2026-02-10",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-21514",
+      "vendor": "Microsoft",
+      "product": "Office",
+      "name": "Microsoft Office Word Reliance on Untrusted Inputs in a Security Decision Vulnerability",
+      "dateAdded": "2026-02-10",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-11953",
+      "vendor": "React Native Community",
+      "product": "CLI",
+      "name": "React Native Community CLI OS Command Injection Vulnerability",
+      "dateAdded": "2026-02-05",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-24423",
+      "vendor": "SmarterTools",
+      "product": "SmarterMail",
+      "name": "SmarterTools SmarterMail Missing Authentication for Critical Function Vulnerability",
+      "dateAdded": "2026-02-05",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2021-39935",
+      "vendor": "GitLab",
+      "product": "Community and Enterprise Editions",
+      "name": "GitLab Community and Enterprise Editions Server-Side Request Forgery (SSRF) Vulnerability",
+      "dateAdded": "2026-02-03",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-64328",
+      "vendor": "Sangoma",
+      "product": "FreePBX ",
+      "name": "Sangoma FreePBX OS Command Injection Vulnerability",
+      "dateAdded": "2026-02-03",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2019-19006",
+      "vendor": "Sangoma",
+      "product": "FreePBX",
+      "name": " Sangoma FreePBX Improper Authentication Vulnerability",
+      "dateAdded": "2026-02-03",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-40551",
+      "vendor": "SolarWinds",
+      "product": "Web Help Desk",
+      "name": "SolarWinds Web Help Desk Deserialization of Untrusted Data Vulnerability",
+      "dateAdded": "2026-02-03",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-1281",
+      "vendor": "Ivanti",
+      "product": "Endpoint Manager Mobile (EPMM)",
+      "name": "Ivanti Endpoint Manager Mobile (EPMM) Code Injection Vulnerability",
+      "dateAdded": "2026-01-29",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-24858",
+      "vendor": "Fortinet",
+      "product": "Multiple Products",
+      "name": "Fortinet Multiple Products Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+      "dateAdded": "2026-01-27",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2018-14634",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "name": "Linux Kernel Integer Overflow Vulnerability",
+      "dateAdded": "2026-01-26",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-52691",
+      "vendor": "SmarterTools",
+      "product": "SmarterMail",
+      "name": "SmarterTools SmarterMail Unrestricted Upload of File with Dangerous Type Vulnerability",
+      "dateAdded": "2026-01-26",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2026-23760",
+      "vendor": "SmarterTools",
+      "product": "SmarterMail",
+      "name": "SmarterTools SmarterMail Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+      "dateAdded": "2026-01-26",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2026-24061",
+      "vendor": "GNU",
+      "product": "InetUtils",
+      "name": "GNU InetUtils Argument Injection Vulnerability",
+      "dateAdded": "2026-01-26",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-21509",
+      "vendor": "Microsoft",
+      "product": "Office",
+      "name": "Microsoft Office Security Feature Bypass Vulnerability",
+      "dateAdded": "2026-01-26",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2024-37079",
+      "vendor": "Broadcom",
+      "product": "VMware vCenter Server",
+      "name": "Broadcom VMware vCenter Server Out-of-bounds Write Vulnerability",
+      "dateAdded": "2026-01-23",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-68645",
+      "vendor": "Synacor",
+      "product": " Zimbra Collaboration Suite (ZCS)",
+      "name": "Synacor Zimbra Collaboration Suite (ZCS) PHP Remote File Inclusion Vulnerability",
+      "dateAdded": "2026-01-22",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-34026",
+      "vendor": "Versa",
+      "product": "Concerto",
+      "name": "Versa Concerto Improper Authentication Vulnerability",
+      "dateAdded": "2026-01-22",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-31125",
+      "vendor": "Vite",
+      "product": "Vitejs",
+      "name": "Vite Vitejs Improper Access Control Vulnerability",
+      "dateAdded": "2026-01-22",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-54313",
+      "vendor": "Prettier",
+      "product": "eslint-config-prettier",
+      "name": "Prettier eslint-config-prettier Embedded Malicious Code Vulnerability",
+      "dateAdded": "2026-01-22",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-20045",
+      "vendor": "Cisco",
+      "product": "Unified Communications Manager",
+      "name": "Cisco Unified Communications Products Code Injection Vulnerability",
+      "dateAdded": "2026-01-21",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-20805",
+      "vendor": "Microsoft",
+      "product": "Windows",
+      "name": "Microsoft Windows Information Disclosure Vulnerability",
+      "dateAdded": "2026-01-13",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-8110",
+      "vendor": "Gogs",
+      "product": "Gogs",
+      "name": "Gogs Path Traversal Vulnerability",
+      "dateAdded": "2026-01-12",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2009-0556",
+      "vendor": "Microsoft",
+      "product": "Office",
+      "name": "Microsoft Office PowerPoint Code Injection Vulnerability",
+      "dateAdded": "2026-01-07",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-37164",
+      "vendor": "Hewlett Packard Enterprise (HPE)",
+      "product": "OneView",
+      "name": "Hewlett Packard Enterprise (HPE) OneView Code Injection Vulnerability",
+      "dateAdded": "2026-01-07",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-14847",
+      "vendor": "MongoDB",
+      "product": "MongoDB and MongoDB Server",
+      "name": "MongoDB and MongoDB Server Improper Handling of Length Parameter Inconsistency Vulnerability",
+      "dateAdded": "2025-12-29",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2023-52163",
+      "vendor": "Digiever",
+      "product": "DS-2105 Pro",
+      "name": "Digiever DS-2105 Pro Missing Authorization Vulnerability",
+      "dateAdded": "2025-12-22",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-14733",
+      "vendor": "WatchGuard",
+      "product": "Firebox",
+      "name": "WatchGuard Firebox Out of Bounds Write Vulnerability",
+      "dateAdded": "2025-12-19",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2025-59374",
+      "vendor": "ASUS",
+      "product": "Live Update",
+      "name": "ASUS Live Update Embedded Malicious Code Vulnerability",
+      "dateAdded": "2025-12-17",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-40602",
+      "vendor": "SonicWall",
+      "product": "SMA1000 appliance",
+      "name": "SonicWall SMA1000 Missing Authorization Vulnerability",
+      "dateAdded": "2025-12-17",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-20393",
+      "vendor": "Cisco",
+      "product": "Multiple Products",
+      "name": "Cisco Multiple Products Improper Input Validation Vulnerability",
+      "dateAdded": "2025-12-17",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-59718",
+      "vendor": "Fortinet",
+      "product": "Multiple Products",
+      "name": "Fortinet Multiple Products Improper Verification of Cryptographic Signature Vulnerability",
+      "dateAdded": "2025-12-16",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-14611",
+      "vendor": "Gladinet",
+      "product": "CentreStack and Triofox",
+      "name": "Gladinet CentreStack and Triofox Hard Coded Cryptographic Vulnerability",
+      "dateAdded": "2025-12-15",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-43529",
+      "vendor": "Apple",
+      "product": "Multiple Products",
+      "name": "Apple Multiple Products Use-After-Free WebKit Vulnerability",
+      "dateAdded": "2025-12-15",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2018-4063",
+      "vendor": "Sierra Wireless",
+      "product": "AirLink ALEOS",
+      "name": "Sierra Wireless AirLink ALEOS Unrestricted Upload of File with Dangerous Type Vulnerability",
+      "dateAdded": "2025-12-12",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-14174",
+      "vendor": "Google",
+      "product": "Chromium",
+      "name": "Google Chromium Out of Bounds Memory Access Vulnerability",
+      "dateAdded": "2025-12-12",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-58360",
+      "vendor": "OSGeo",
+      "product": "GeoServer",
+      "name": "OSGeo GeoServer Improper Restriction of XML External Entity Reference Vulnerability",
+      "dateAdded": "2025-12-11",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-6218",
+      "vendor": "RARLAB",
+      "product": "WinRAR",
+      "name": "RARLAB WinRAR Path Traversal Vulnerability",
+      "dateAdded": "2025-12-09",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-62221",
+      "vendor": "Microsoft",
+      "product": "Windows",
+      "name": "Microsoft Windows Use After Free Vulnerability",
+      "dateAdded": "2025-12-09",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2022-37055",
+      "vendor": "D-Link",
+      "product": "Routers",
+      "name": "D-Link Routers Buffer Overflow Vulnerability",
+      "dateAdded": "2025-12-08",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-66644",
+      "vendor": "Array Networks ",
+      "product": "ArrayOS AG",
+      "name": "Array Networks ArrayOS AG OS Command Injection Vulnerability",
+      "dateAdded": "2025-12-08",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-55182",
+      "vendor": "Meta",
+      "product": "React Server Components",
+      "name": "Meta React Server Components Remote Code Execution Vulnerability",
+      "dateAdded": "2025-12-05",
+      "ransomwareUse": "Known"
+    },
+    {
+      "cve": "CVE-2021-26828",
+      "vendor": "OpenPLC",
+      "product": "ScadaBR",
+      "name": "OpenPLC ScadaBR Unrestricted Upload of File with Dangerous Type Vulnerability",
+      "dateAdded": "2025-12-03",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-48633",
+      "vendor": "Android",
+      "product": "Framework",
+      "name": "Android Framework Information Disclosure Vulnerability",
+      "dateAdded": "2025-12-02",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-48572",
+      "vendor": "Android",
+      "product": "Framework",
+      "name": "Android Framework Privilege Escalation Vulnerability",
+      "dateAdded": "2025-12-02",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2021-26829",
+      "vendor": "OpenPLC",
+      "product": "ScadaBR",
+      "name": "OpenPLC ScadaBR Cross-site Scripting Vulnerability",
+      "dateAdded": "2025-11-28",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-61757",
+      "vendor": "Oracle",
+      "product": "Fusion Middleware",
+      "name": "Oracle Fusion Middleware Missing Authentication for Critical Function Vulnerability",
+      "dateAdded": "2025-11-21",
+      "ransomwareUse": "Unknown"
+    }
+  ]
+}
