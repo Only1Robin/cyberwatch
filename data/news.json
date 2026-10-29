@@ -1,6 +1,37 @@
 {
-  "updated": "2026-10-29T18:34:10+00:00",
+  "updated": "2026-10-29T21:28:35+00:00",
   "items": [
+    {
+      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
+      "source": "BleepingComputer",
+      "published": "2026-10-29T19:23:41+00:00",
+      "summary": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "source": "The Hacker News",
+      "published": "2026-10-29T19:11:58+00:00",
+      "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix of clever tricks and careless mistakes. Hackers are borrowing trust from familia",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+      "source": "BleepingComputer",
+      "published": "2026-10-29T18:38:26+00:00",
+      "summary": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift. [...]",
+      "cves": [
+        "CVE-2026-20127"
+      ],
+      "software_hints": [
+        "Cisco Catalyst SD-WAN Controller and Manager"
+      ]
+    },
     {
       "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
       "link": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
@@ -152,7 +183,7 @@
       "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
       "source": "The Hacker News",
       "published": "2026-10-29T11:39:18+00:00",
-      "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the app, released in late Septembe",
+      "summary": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the",
       "cves": [],
       "software_hints": []
     },
@@ -201,7 +232,9 @@
       "cves": [
         "CVE-2026-76418"
       ],
-      "software_hints": []
+      "software_hints": [
+        "Cisco Secure Firewall ASA Software and Cisco Secure FTD Software"
+      ]
     },
     {
       "title": "Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network",
@@ -239,7 +272,9 @@
       "cves": [
         "CVE-2026-97229"
       ],
-      "software_hints": []
+      "software_hints": [
+        "GitLab Community Edition and Enterprise Edition"
+      ]
     },
     {
       "title": "HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million",

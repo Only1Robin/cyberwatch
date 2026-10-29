@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-29T18:34:09+00:00",
+  "updated": "2026-10-29T21:28:34+00:00",
   "items": [
+    {
+      "cve": "CVE-2026-97229",
+      "vendor": "GitLab",
+      "product": "Community Edition and Enterprise Edition",
+      "name": "GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability",
+      "dateAdded": "2026-10-29",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-76418",
+      "vendor": "Cisco",
+      "product": "Secure Firewall ASA Software and Cisco Secure FTD Software",
+      "name": "Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability",
+      "dateAdded": "2026-10-29",
+      "ransomwareUse": "Unknown"
+    },
     {
       "cve": "CVE-2026-41709",
       "vendor": "Broadcom",
@@ -2383,22 +2399,6 @@
       "product": "Framework",
       "name": "Android Framework Privilege Escalation Vulnerability",
       "dateAdded": "2025-12-02",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2021-26829",
-      "vendor": "OpenPLC",
-      "product": "ScadaBR",
-      "name": "OpenPLC ScadaBR Cross-site Scripting Vulnerability",
-      "dateAdded": "2025-11-28",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2025-61757",
-      "vendor": "Oracle",
-      "product": "Fusion Middleware",
-      "name": "Oracle Fusion Middleware Missing Authentication for Critical Function Vulnerability",
-      "dateAdded": "2025-11-21",
       "ransomwareUse": "Unknown"
     }
   ]
