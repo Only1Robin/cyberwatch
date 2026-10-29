@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T16:19:49+00:00",
+  "updated": "2026-10-29T18:34:10+00:00",
   "items": [
+    {
+      "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
+      "link": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
+      "source": "SecurityWeek",
+      "published": "2026-10-29T16:30:00+00:00",
+      "summary": "Risk managers are trained to spot weak signals, plan for disruption and make hard decisions under uncertainty. But the discipline looks different when the risk is not a system or an enterprise, but you. The post When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis appe",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
       "link": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
@@ -8,6 +17,17 @@
       "published": "2026-10-29T16:10:31+00:00",
       "summary": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
       "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+      "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+      "source": "The Hacker News",
+      "published": "2026-10-29T15:57:05+00:00",
+      "summary": "A flaw in the Linux kernel's TCP code, tracked as&nbsp;CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale. Anthropic said&nbsp;on October 27 that its AI model wrote an exploit that uses th",
+      "cves": [
+        "CVE-2026-98432"
+      ],
       "software_hints": []
     },
     {
