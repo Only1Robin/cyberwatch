@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-30T15:39:39+00:00",
+  "updated": "2026-10-30T18:30:14+00:00",
   "items": [
+    {
+      "cve": "CVE-2026-118527",
+      "vendor": "Ivanti",
+      "product": "Connect Secure",
+      "name": "Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability",
+      "dateAdded": "2026-10-30",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-111357",
+      "vendor": "Ivanti",
+      "product": "Connect Secure",
+      "name": "Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability",
+      "dateAdded": "2026-10-30",
+      "ransomwareUse": "Unknown"
+    },
     {
       "cve": "CVE-2026-97229",
       "vendor": "GitLab",
@@ -2383,22 +2399,6 @@
       "product": "ScadaBR",
       "name": "OpenPLC ScadaBR Unrestricted Upload of File with Dangerous Type Vulnerability",
       "dateAdded": "2025-12-03",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2025-48633",
-      "vendor": "Android",
-      "product": "Framework",
-      "name": "Android Framework Information Disclosure Vulnerability",
-      "dateAdded": "2025-12-02",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2025-48572",
-      "vendor": "Android",
-      "product": "Framework",
-      "name": "Android Framework Privilege Escalation Vulnerability",
-      "dateAdded": "2025-12-02",
       "ransomwareUse": "Unknown"
     }
   ]
