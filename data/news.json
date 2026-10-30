@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T03:34:59+00:00",
+  "updated": "2026-10-30T06:34:52+00:00",
   "items": [
+    {
+      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+      "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+      "source": "The Hacker News",
+      "published": "2026-10-30T04:14:59+00:00",
+      "summary": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen on-chain so far.&nbsp; Tether and Circle said they have frozen",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
