@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-31T15:24:02+00:00",
+  "updated": "2026-10-31T18:27:42+00:00",
   "items": [
+    {
+      "title": "Northflank security breach leads to abuse of customers' AI API keys",
+      "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+      "source": "BleepingComputer",
+      "published": "2026-10-31T18:01:12+00:00",
+      "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+      "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+      "source": "BleepingComputer",
+      "published": "2026-10-31T15:35:11+00:00",
+      "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
+      "cves": [
+        "CVE-2026-58882"
+      ],
+      "software_hints": []
+    },
     {
       "title": "Reddit to lock content behind logins to fight scrapers",
       "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
@@ -15,7 +35,7 @@
       "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
       "source": "BleepingComputer",
       "published": "2026-10-31T13:10:19+00:00",
-      "summary": "[...]",
+      "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, and produce reproducible findings that stand up to s",
       "cves": [],
       "software_hints": []
     },
