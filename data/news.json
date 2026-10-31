@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-31T03:33:26+00:00",
+  "updated": "2026-10-31T06:33:10+00:00",
   "items": [
+    {
+      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+      "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+      "source": "The Hacker News",
+      "published": "2026-10-31T05:33:41+00:00",
+      "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at&nbsp;the security firm Parameter&nbsp;showed. The researchers reported the flaw through&nbsp;OpenAI's bug bounty program&nbs",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+      "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+      "source": "The Hacker News",
+      "published": "2026-10-31T04:56:12+00:00",
+      "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDoS attacks and 14.4 trillion HTTP DDoS requests in t",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
       "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
