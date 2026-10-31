@@ -1,6 +1,19 @@
 {
-  "updated": "2026-10-31T06:33:10+00:00",
+  "updated": "2026-10-31T09:28:25+00:00",
   "items": [
+    {
+      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+      "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+      "source": "The Hacker News",
+      "published": "2026-10-31T08:27:43+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild. The vulnerabilities are listed below - CVE-2026-111357 (CVSS scor",
+      "cves": [
+        "CVE-2026-111357"
+      ],
+      "software_hints": [
+        "Ivanti Connect Secure"
+      ]
+    },
     {
       "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
       "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
