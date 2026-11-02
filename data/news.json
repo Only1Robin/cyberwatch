@@ -1,8 +1,35 @@
 {
-  "updated": "2026-11-02T15:48:23+00:00",
+  "updated": "2026-11-02T18:43:30+00:00",
   "items": [
     {
-      "title": "BTCPay Server warns of hot wallet thefts targeting outdated instances",
+      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+      "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+      "source": "BleepingComputer",
+      "published": "2026-11-02T18:16:34+00:00",
+      "summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+      "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+      "source": "The Hacker News",
+      "published": "2026-11-02T16:57:56+00:00",
+      "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious trouble. Then there were the bigger messes. Billions stolen, hidden networks of",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+      "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+      "source": "The Hacker News",
+      "published": "2026-11-02T15:50:26+00:00",
+      "summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says&nbsp;it is highly confident that device maker Videostrong intentionally put a backdoor in the boxes and sold access to criminals. They used",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
       "link": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
       "source": "BleepingComputer",
       "published": "2026-11-02T15:03:07+00:00",
