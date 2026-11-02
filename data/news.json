@@ -1,12 +1,111 @@
 {
-  "updated": "2026-11-02T12:47:29+00:00",
+  "updated": "2026-11-02T15:48:23+00:00",
   "items": [
+    {
+      "title": "BTCPay Server warns of hot wallet thefts targeting outdated instances",
+      "link": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
+      "source": "BleepingComputer",
+      "published": "2026-11-02T15:03:07+00:00",
+      "summary": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Your Mobile Carrier Stores Your Call Logs for Years",
+      "link": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
+      "source": "BleepingComputer",
+      "published": "2026-11-02T15:01:11+00:00",
+      "summary": "Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data retention and how its mobile service reduces exposure by automatically deleting ",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Cybersecurity M&A Roundup: 37 Deals Announced in October 2026",
+      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/",
+      "source": "SecurityWeek",
+      "published": "2026-11-02T15:01:11+00:00",
+      "summary": "Significant cybersecurity deals were announced by Absolute Security, Aikido, Anthropic, Cohere, Hex-Rays, and Proofpoint. The post Cybersecurity M&#038;A Roundup: 37 Deals Announced in October 2026 appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+      "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+      "source": "The Hacker News",
+      "published": "2026-11-02T14:46:05+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream Research Labs, the campaign has led to the compromise of a ",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk",
+      "link": "https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/",
+      "source": "SecurityWeek",
+      "published": "2026-11-02T14:44:18+00:00",
+      "summary": "The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website. The post Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Hackers disrupt refrigeration systems at European supermarkets",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
+      "source": "BleepingComputer",
+      "published": "2026-11-02T14:28:39+00:00",
+      "summary": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Microsoft fixes Smart App Control broken by October Windows update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
+      "source": "BleepingComputer",
+      "published": "2026-11-02T13:57:29+00:00",
+      "summary": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Revolve Data Breach Impacts at Least 180,000 People",
+      "link": "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
+      "source": "SecurityWeek",
+      "published": "2026-11-02T13:35:21+00:00",
+      "summary": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 180,000 People appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward",
+      "link": "https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward/",
+      "source": "SecurityWeek",
+      "published": "2026-11-02T13:25:11+00:00",
+      "summary": "The top payout is for high-impact architectural research demonstrating full administrative control. The post Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
       "link": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
       "source": "BleepingComputer",
       "published": "2026-11-02T12:47:00+00:00",
       "summary": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+      "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+      "source": "The Hacker News",
+      "published": "2026-11-02T11:50:00+00:00",
+      "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code,&nbsp;IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and&nbsp;its vulnerability reports go to IBM. Every release from 1.0.0 through 1.12.8",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
+      "link": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
+      "source": "The Hacker News",
+      "published": "2026-11-02T11:30:00+00:00",
+      "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and practitioners. For the teams still testing, the next decisio",
       "cves": [],
       "software_hints": []
     },
