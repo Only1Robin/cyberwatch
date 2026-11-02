@@ -1,6 +1,60 @@
 {
-  "updated": "2026-11-02T09:50:51+00:00",
+  "updated": "2026-11-02T12:47:29+00:00",
   "items": [
+    {
+      "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-11-02T12:47:00+00:00",
+      "summary": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Malicious Claude Code Extension Served in Cursor Supply Chain Attack",
+      "link": "https://www.securityweek.com/malicious-claude-code-extension-served-in-cursor-supply-chain-attack/",
+      "source": "SecurityWeek",
+      "published": "2026-11-02T11:29:39+00:00",
+      "summary": "The extension performed host reconnaissance and attempted to create a reverse SSH tunnel. The post Malicious Claude Code Extension Served in Cursor Supply Chain Attack appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
+      "link": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-11-02T11:28:42+00:00",
+      "summary": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
+      "link": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
+      "source": "The Hacker News",
+      "published": "2026-11-02T11:08:45+00:00",
+      "summary": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, including one for a domain controller. Microsoft said ",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+      "link": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
+      "source": "The Hacker News",
+      "published": "2026-11-02T10:49:59+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure. The activity, observed by Palo Alto Networks Unit 42 between October 2025 and April 2026, has been track",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Chainalysis Discloses Data Breach Following AI-Driven Cyberattack",
+      "link": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/",
+      "source": "SecurityWeek",
+      "published": "2026-11-02T10:27:49+00:00",
+      "summary": "The attackers used offensive agentic techniques to access the company’s systems and internal tools. The post Chainalysis Discloses Data Breach Following AI-Driven Cyberattack appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
