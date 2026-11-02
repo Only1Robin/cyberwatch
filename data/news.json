@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-02T18:43:30+00:00",
+  "updated": "2026-11-02T21:32:57+00:00",
   "items": [
+    {
+      "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+      "source": "BleepingComputer",
+      "published": "2026-11-02T19:00:45+00:00",
+      "summary": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
       "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
