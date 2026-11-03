@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-02T21:32:57+00:00",
+  "updated": "2026-11-03T00:36:56+00:00",
   "items": [
+    {
+      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+      "source": "BleepingComputer",
+      "published": "2026-11-02T21:40:14+00:00",
+      "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
