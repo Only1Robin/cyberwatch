@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-03T18:37:27+00:00",
+  "updated": "2026-11-03T21:31:40+00:00",
   "items": [
+    {
+      "cve": "CVE-2026-119977",
+      "vendor": "WordPress",
+      "product": "WordPress Core",
+      "name": "WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
+      "dateAdded": "2026-11-03",
+      "ransomwareUse": "Unknown"
+    },
     {
       "cve": "CVE-2026-118527",
       "vendor": "Ivanti",
@@ -2392,14 +2400,6 @@
       "name": "Meta React Server Components Remote Code Execution Vulnerability",
       "dateAdded": "2025-12-05",
       "ransomwareUse": "Known"
-    },
-    {
-      "cve": "CVE-2021-26828",
-      "vendor": "OpenPLC",
-      "product": "ScadaBR",
-      "name": "OpenPLC ScadaBR Unrestricted Upload of File with Dangerous Type Vulnerability",
-      "dateAdded": "2025-12-03",
-      "ransomwareUse": "Unknown"
     }
   ]
 }
