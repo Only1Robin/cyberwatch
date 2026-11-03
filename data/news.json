@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-03T03:40:06+00:00",
+  "updated": "2026-11-03T06:49:06+00:00",
   "items": [
+    {
+      "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+      "source": "The Hacker News",
+      "published": "2026-11-03T05:34:41+00:00",
+      "summary": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for a critical function that could be exploited by an u",
+      "cves": [
+        "CVE-2026-58115"
+      ],
+      "software_hints": []
+    },
+    {
+      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+      "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+      "source": "The Hacker News",
+      "published": "2026-11-03T05:34:37+00:00",
+      "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful exploitation of the fl",
+      "cves": [
+        "CVE-2026-81648"
+      ],
+      "software_hints": []
+    },
     {
       "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
       "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
@@ -119,11 +141,11 @@
       "software_hints": []
     },
     {
-      "title": "Revolve Data Breach Impacts at Least 180,000 People",
+      "title": "Revolve Data Breach Impacts at Least 200,000 People",
       "link": "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
       "source": "SecurityWeek",
       "published": "2026-11-02T13:35:21+00:00",
-      "summary": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 180,000 People appeared first on SecurityWeek.",
+      "summary": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 200,000 People appeared first on SecurityWeek.",
       "cves": [],
       "software_hints": []
     },
