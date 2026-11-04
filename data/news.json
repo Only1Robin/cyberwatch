@@ -1,6 +1,147 @@
 {
-  "updated": "2026-11-04T06:53:59+00:00",
+  "updated": "2026-11-04T12:44:27+00:00",
   "items": [
+    {
+      "title": "Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers",
+      "link": "https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/",
+      "source": "SecurityWeek",
+      "published": "2026-11-04T12:27:58+00:00",
+      "summary": "A federal grand jury indicted two Canadian men for hijacking university supercomputers to secretly mine Electroneum cryptocurrency. The post Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-11-04T12:11:05+00:00",
+      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+      "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+      "source": "The Hacker News",
+      "published": "2026-11-04T12:07:04+00:00",
+      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in&nbsp;an advisory&nbsp;and fixed it in versions 8.1.4.1 and 8.0.5.2.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+      "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
+      "source": "The Hacker News",
+      "published": "2026-11-04T11:46:27+00:00",
+      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others. Patches are out, and there is no known mitigation, the Xen Project sa",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
+      "link": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
+      "source": "The Hacker News",
+      "published": "2026-11-04T11:34:20+00:00",
+      "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agents never touch one. One recent case shows what that gap looks like in ",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
+      "link": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
+      "source": "The Hacker News",
+      "published": "2026-11-04T11:24:31+00:00",
+      "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign designed to deploy an implant called DarkVigil (aka FDMTP). Th",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Malicious cPGuard Updates Served in OpsShield Supply Chain Attack",
+      "link": "https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/",
+      "source": "SecurityWeek",
+      "published": "2026-11-04T10:54:48+00:00",
+      "summary": "Using compromised credentials, the attackers accessed OpsShield’s update servers and poisoned multiple cPGuard versions. The post Malicious cPGuard Updates Served in OpsShield Supply Chain Attack appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical",
+      "link": "https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/",
+      "source": "SecurityWeek",
+      "published": "2026-11-04T10:38:46+00:00",
+      "summary": "The browser update resolves dozens of memory safety bugs and incorrect/missing authorization issues. The post Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist",
+      "link": "https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/",
+      "source": "SecurityWeek",
+      "published": "2026-11-04T10:36:32+00:00",
+      "summary": "Binance’s first incident report traces the record theft to a months-long campaign that compromised three engineers’ computers. The post Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+      "source": "BleepingComputer",
+      "published": "2026-11-04T09:39:54+00:00",
+      "summary": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack",
+      "link": "https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/",
+      "source": "SecurityWeek",
+      "published": "2026-11-04T09:23:22+00:00",
+      "summary": "In recent months, North Korea has accelerated its weapons tests in a likely bid to increase its leverage in potential diplomacy with the US. The post North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million",
+      "link": "https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/",
+      "source": "SecurityWeek",
+      "published": "2026-11-04T08:27:05+00:00",
+      "summary": "A $300,000 award went to a pre-launch flaw that exposed conversations and tokens on internal Muse test VMs used by Meta staff. The post Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
+      "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
+      "source": "The Hacker News",
+      "published": "2026-11-04T08:17:11+00:00",
+      "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies since 2016. The Ministry of Internal Affairs of the Rus",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+      "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+      "source": "The Hacker News",
+      "published": "2026-11-04T07:46:15+00:00",
+      "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its&nbsp;November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with security patch level 2026-11-01 or later, which phone makers a",
+      "cves": [
+        "CVE-2026-58868"
+      ],
+      "software_hints": []
+    },
+    {
+      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+      "link": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+      "source": "The Hacker News",
+      "published": "2026-11-04T05:43:11+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1), is a case of Time-",
+      "cves": [
+        "CVE-2026-119977"
+      ],
+      "software_hints": [
+        "WordPress WordPress Core"
+      ]
+    },
     {
       "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
