@@ -1,6 +1,78 @@
 {
-  "updated": "2026-11-04T12:44:27+00:00",
+  "updated": "2026-11-04T15:45:29+00:00",
   "items": [
+    {
+      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
+      "link": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
+      "source": "BleepingComputer",
+      "published": "2026-11-04T15:00:10+00:00",
+      "summary": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down nearly 900 domains used b",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
+      "source": "BleepingComputer",
+      "published": "2026-11-04T14:42:25+00:00",
+      "summary": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
+      "link": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
+      "source": "SecurityWeek",
+      "published": "2026-11-04T14:34:44+00:00",
+      "summary": "Sysdig’s platform uses runtime visibility to track AI agent actions and block risky behavior before it reaches production systems. The post Sysdig Adds Runtime Security and Governance for AI Agents appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+      "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+      "source": "The Hacker News",
+      "published": "2026-11-04T14:27:52+00:00",
+      "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. \"The injected JavaScrip",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Barracuda ESG Authentication Bypass Flaw Opens Path to Root",
+      "link": "https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/",
+      "source": "SecurityWeek",
+      "published": "2026-11-04T14:24:54+00:00",
+      "summary": "An authentication bypass and a command injection flaw can be chained for root access on Barracuda’s Email Security Gateway appliances. The post Barracuda ESG Authentication Bypass Flaw Opens Path to Root appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Agentic Data Security Firm Sentra Raises $150 Million",
+      "link": "https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/",
+      "source": "SecurityWeek",
+      "published": "2026-11-04T14:09:20+00:00",
+      "summary": "The company will invest in agentic data security capabilities and expand its go-to-market organization. The post Agentic Data Security Firm Sentra Raises $150 Million appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "US charges two Canadians accused of hacking US universities",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
+      "source": "BleepingComputer",
+      "published": "2026-11-04T13:13:20+00:00",
+      "summary": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks",
+      "link": "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/",
+      "source": "SecurityWeek",
+      "published": "2026-11-04T12:43:20+00:00",
+      "summary": "Hackers have been harvesting AI access tokens and have been using AI-assisted offensive tools to automate attacks. The post AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers",
       "link": "https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/",
