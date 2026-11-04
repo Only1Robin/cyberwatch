@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-04T18:44:55+00:00",
+  "updated": "2026-11-04T21:40:07+00:00",
   "items": [
+    {
+      "title": "Vercel rolls out new protection against stolen session cookie attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-11-04T21:31:18+00:00",
+      "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "source": "BleepingComputer",
+      "published": "2026-11-04T20:58:19+00:00",
+      "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+      "source": "BleepingComputer",
+      "published": "2026-11-04T19:05:19+00:00",
+      "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Cyberattack disrupts blood storage refrigeration systems in France",
       "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
