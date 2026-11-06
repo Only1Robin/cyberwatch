@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-06T18:40:13+00:00",
+  "updated": "2026-11-06T21:29:55+00:00",
   "items": [
+    {
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "source": "BleepingComputer",
+      "published": "2026-11-06T20:24:19+00:00",
+      "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Fake security tools on GitHub push backdoors and infostealers",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+      "source": "BleepingComputer",
+      "published": "2026-11-06T18:46:52+00:00",
+      "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
       "link": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
