@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-06T09:51:35+00:00",
+  "updated": "2026-11-06T12:47:23+00:00",
   "items": [
+    {
+      "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
+      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
+      "source": "BleepingComputer",
+      "published": "2026-11-06T12:37:22+00:00",
+      "summary": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Researchers Find Residential Proxies on White House Network",
+      "link": "https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/",
+      "source": "SecurityWeek",
+      "published": "2026-11-06T12:16:13+00:00",
+      "summary": "In a month, 28 residential proxy services used 6 addresses, mainly between 5 p.m. and midnight, Eastern Time. The post Researchers Find Residential Proxies on White House Network appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass",
+      "link": "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
+      "source": "SecurityWeek",
+      "published": "2026-11-06T12:07:42+00:00",
+      "summary": "On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters. The post OpenSSH Rushes Patches for &#8216;SSHole&#8217; Authentication Bypass appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "The Flood is Coming And The Pipes Were Already Full",
+      "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
+      "source": "The Hacker News",
+      "published": "2026-11-06T11:30:00+00:00",
+      "summary": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models find, and the gap he describes between what they can do and what ",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
       "link": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
