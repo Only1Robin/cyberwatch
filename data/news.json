@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-07T15:26:54+00:00",
+  "updated": "2026-11-07T18:27:59+00:00",
   "items": [
+    {
+      "title": "Hackers pull off $133 million French bank heist via service provider",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+      "source": "BleepingComputer",
+      "published": "2026-11-07T15:25:35+00:00",
+      "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
       "link": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
