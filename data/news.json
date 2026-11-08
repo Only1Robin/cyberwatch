@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-08T09:36:15+00:00",
+  "updated": "2026-11-08T12:31:04+00:00",
   "items": [
+    {
+      "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
+      "link": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
+      "source": "SecurityWeek",
+      "published": "2026-11-08T12:14:00+00:00",
+      "summary": "Its multi-agent AI platform generates the telemetry an attack would produce to fix gaps in enterprise defenses. The post Brava Security Emerges From Stealth With $15 Million in Funding appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Hackers pull off $133 million French bank heist via service provider",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
