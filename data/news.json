@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-09T18:41:38+00:00",
+  "updated": "2026-11-09T21:39:32+00:00",
   "items": [
+    {
+      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+      "source": "BleepingComputer",
+      "published": "2026-11-09T21:26:25+00:00",
+      "summary": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable systems. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "York University breach exposed personal information dating to 2007",
+      "link": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+      "source": "BleepingComputer",
+      "published": "2026-11-09T21:22:31+00:00",
+      "summary": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
       "link": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",

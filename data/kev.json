@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T18:41:37+00:00",
+  "updated": "2026-11-09T21:39:31+00:00",
   "items": [
     {
       "cve": "CVE-2026-102895",
@@ -22,6 +22,14 @@
       "vendor": "SignalWire",
       "product": "FreeSwitch",
       "name": "SignalWire FreeSwitch Code Injection Vulnerability",
+      "dateAdded": "2026-11-09",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-123218",
+      "vendor": "IBM",
+      "product": "Aspera Faspex",
+      "name": "IBM Aspera Faspex Incorrect Authorization Vulnerability",
       "dateAdded": "2026-11-09",
       "ransomwareUse": "Unknown"
     },
@@ -2391,14 +2399,6 @@
       "product": "Chromium",
       "name": "Google Chromium Out of Bounds Memory Access Vulnerability",
       "dateAdded": "2025-12-12",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2025-58360",
-      "vendor": "OSGeo",
-      "product": "GeoServer",
-      "name": "OSGeo GeoServer Improper Restriction of XML External Entity Reference Vulnerability",
-      "dateAdded": "2025-12-11",
       "ransomwareUse": "Unknown"
     }
   ]
