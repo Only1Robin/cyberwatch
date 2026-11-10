@@ -1,6 +1,111 @@
 {
-  "updated": "2026-11-10T09:46:37+00:00",
+  "updated": "2026-11-10T12:48:21+00:00",
   "items": [
+    {
+      "title": "Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes",
+      "link": "https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/",
+      "source": "SecurityWeek",
+      "published": "2026-11-10T12:17:13+00:00",
+      "summary": "Anthropic says Mythos 5.2 improves vulnerability discovery while showing a lower tendency to escape sandboxes in controlled tests. The post Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
+      "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
+      "source": "The Hacker News",
+      "published": "2026-11-10T12:15:31+00:00",
+      "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates for iOS 26 and 27, released yesterday, do not list a",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
+      "source": "BleepingComputer",
+      "published": "2026-11-10T12:07:03+00:00",
+      "summary": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Beyond the Alert: The Case for Rich Network Data",
+      "link": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
+      "source": "The Hacker News",
+      "published": "2026-11-10T11:38:13+00:00",
+      "summary": "At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once we accept that prevention has its limits, we arrive at an interdiction strategy: finding and disrup",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+      "link": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+      "source": "The Hacker News",
+      "published": "2026-11-10T10:16:51+00:00",
+      "summary": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages sent before they joined. As of today, other updates ",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
+      "source": "BleepingComputer",
+      "published": "2026-11-10T10:10:20+00:00",
+      "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+      "link": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
+      "source": "The Hacker News",
+      "published": "2026-11-10T10:07:29+00:00",
+      "summary": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collect emails. According to an ESET report shared with ",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
+      "link": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
+      "source": "BleepingComputer",
+      "published": "2026-11-10T10:04:32+00:00",
+      "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+      "source": "The Hacker News",
+      "published": "2026-11-10T10:02:40+00:00",
+      "summary": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the Web Dispatcher, which ",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days",
+      "link": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
+      "source": "SecurityWeek",
+      "published": "2026-11-10T09:56:28+00:00",
+      "summary": "Attackers could exploit the flaws for remote code execution, credential theft, and administrator account creation. The post N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
+      "link": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/",
+      "source": "SecurityWeek",
+      "published": "2026-11-10T09:42:27+00:00",
+      "summary": "CISA has added CVE-2026-123218 and CVE-2026-116779 to KEV, urging federal agencies to patch them within three days. The post IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks appeared first on SecurityWeek.",
+      "cves": [
+        "CVE-2026-116779",
+        "CVE-2026-123218"
+      ],
+      "software_hints": [
+        "SignalWire FreeSwitch",
+        "IBM Aspera Faspex"
+      ]
+    },
     {
       "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
       "link": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
