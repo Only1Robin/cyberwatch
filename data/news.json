@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-09T21:39:32+00:00",
+  "updated": "2026-11-10T00:35:49+00:00",
   "items": [
+    {
+      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+      "link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+      "source": "BleepingComputer",
+      "published": "2026-11-09T23:52:12+00:00",
+      "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+      "link": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+      "source": "BleepingComputer",
+      "published": "2026-11-09T22:09:33+00:00",
+      "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
       "link": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
