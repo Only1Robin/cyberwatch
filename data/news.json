@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-10T03:40:01+00:00",
+  "updated": "2026-11-10T06:50:21+00:00",
   "items": [
+    {
+      "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
+      "link": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
+      "source": "The Hacker News",
+      "published": "2026-11-10T06:31:42+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Chrome Update Patches Exploited XML Zero-Day, Eighth This Year",
+      "link": "https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/",
+      "source": "SecurityWeek",
+      "published": "2026-11-10T06:12:24+00:00",
+      "summary": "The high-severity use-after-free in Chrome’s XML component was reported anonymously on November 6 and is already exploited in attacks. The post Chrome Update Patches Exploited XML Zero-Day, Eighth This Year appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
       "link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
