@@ -1,6 +1,54 @@
 {
-  "updated": "2026-11-10T18:35:54+00:00",
+  "updated": "2026-11-10T21:30:10+00:00",
   "items": [
+    {
+      "cve": "CVE-2026-124194",
+      "vendor": "Microsoft",
+      "product": "Office",
+      "name": "Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
+      "dateAdded": "2026-11-10",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-111793",
+      "vendor": "Openwave Messaging Limited",
+      "product": "Webtop Media Transcoder",
+      "name": "Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability",
+      "dateAdded": "2026-11-10",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-20320",
+      "vendor": "Cisco",
+      "product": "BroadWorks",
+      "name": "Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability",
+      "dateAdded": "2026-11-10",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-111560",
+      "vendor": "Barracuda Networks",
+      "product": "Multiple Products",
+      "name": "Barracuda Networks Multiple Products OS Command Injection Vulnerability",
+      "dateAdded": "2026-11-10",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-116606",
+      "vendor": "Barracuda Networks",
+      "product": "Barracuda Email Security Gateway (ESG)",
+      "name": "Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+      "dateAdded": "2026-11-10",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-125350",
+      "vendor": "Google",
+      "product": "Chromium",
+      "name": "Google Chromium Use-After-Free Vulnerability",
+      "dateAdded": "2026-11-10",
+      "ransomwareUse": "Unknown"
+    },
     {
       "cve": "CVE-2026-102895",
       "vendor": "GPUStack",
@@ -2351,54 +2399,6 @@
       "product": "SMA1000 appliance",
       "name": "SonicWall SMA1000 Missing Authorization Vulnerability",
       "dateAdded": "2025-12-17",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2025-20393",
-      "vendor": "Cisco",
-      "product": "Multiple Products",
-      "name": "Cisco Multiple Products Improper Input Validation Vulnerability",
-      "dateAdded": "2025-12-17",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2025-59718",
-      "vendor": "Fortinet",
-      "product": "Multiple Products",
-      "name": "Fortinet Multiple Products Improper Verification of Cryptographic Signature Vulnerability",
-      "dateAdded": "2025-12-16",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2025-14611",
-      "vendor": "Gladinet",
-      "product": "CentreStack and Triofox",
-      "name": "Gladinet CentreStack and Triofox Hard Coded Cryptographic Vulnerability",
-      "dateAdded": "2025-12-15",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2025-43529",
-      "vendor": "Apple",
-      "product": "Multiple Products",
-      "name": "Apple Multiple Products Use-After-Free WebKit Vulnerability",
-      "dateAdded": "2025-12-15",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2018-4063",
-      "vendor": "Sierra Wireless",
-      "product": "AirLink ALEOS",
-      "name": "Sierra Wireless AirLink ALEOS Unrestricted Upload of File with Dangerous Type Vulnerability",
-      "dateAdded": "2025-12-12",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2025-14174",
-      "vendor": "Google",
-      "product": "Chromium",
-      "name": "Google Chromium Out of Bounds Memory Access Vulnerability",
-      "dateAdded": "2025-12-12",
       "ransomwareUse": "Unknown"
     }
   ]
