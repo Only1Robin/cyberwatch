@@ -1,6 +1,62 @@
 {
-  "updated": "2026-11-11T15:38:48+00:00",
+  "updated": "2026-11-11T18:42:13+00:00",
   "items": [
+    {
+      "title": "Who Runs the Ransomware Group Qilin?",
+      "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+      "source": "Krebs on Security",
+      "published": "2026-11-11T18:06:01+00:00",
+      "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over ",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Today: CISO Forum Virtual Summit 2026 Day 2 – Join Cybersecurity Leaders Online",
+      "link": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
+      "source": "SecurityWeek",
+      "published": "2026-11-11T16:29:42+00:00",
+      "summary": "Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovative risk management and defense strategies defining the modern enterprise. The post Today: CISO Forum Virtual Summit 2026 Day 2 &#8211; Join Cybersecurity Leaders ",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+      "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+      "source": "BleepingComputer",
+      "published": "2026-11-11T16:24:18+00:00",
+      "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+      "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+      "source": "The Hacker News",
+      "published": "2026-11-11T16:12:46+00:00",
+      "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are listed below - CVE-2026-108186 (CVSS score: 9.6) - An improper input validation vulne",
+      "cves": [
+        "CVE-2026-108186"
+      ],
+      "software_hints": []
+    },
+    {
+      "title": "Critical Xen Orchestra Flaws Exploited in Attacks",
+      "link": "https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/",
+      "source": "SecurityWeek",
+      "published": "2026-11-11T15:42:47+00:00",
+      "summary": "A critical authentication bypass allows attackers to execute arbitrary code as admin and take over XCP-ng nodes. The post Critical Xen Orchestra Flaws Exploited in Attacks appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+      "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+      "source": "The Hacker News",
+      "published": "2026-11-11T15:34:27+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments. \"In several recently observed intrusions, Alibaba Cl",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
@@ -427,15 +483,6 @@
       "source": "BleepingComputer",
       "published": "2026-11-10T15:01:11+00:00",
       "summary": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response times, transparency, ",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Today: CISO Forum Virtual Summit 2026 – Join Global Cybersecurity Leaders",
-      "link": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
-      "source": "SecurityWeek",
-      "published": "2026-11-10T15:00:00+00:00",
-      "summary": "Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovative risk management and defense strategies defining the modern enterprise. The post Today: CISO Forum Virtual Summit 2026 &#8211; Join Global Cybersecurity Leaders",
       "cves": [],
       "software_hints": []
     },
