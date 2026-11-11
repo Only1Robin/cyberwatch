@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-11T03:42:49+00:00",
+  "updated": "2026-11-11T06:53:58+00:00",
   "items": [
+    {
+      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+      "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+      "source": "The Hacker News",
+      "published": "2026-11-11T06:04:02+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Details of the vulnerabilities are",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Railway breach leads to $740,000 in fraudulent AI charges",
       "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
@@ -390,7 +399,7 @@
       "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
       "source": "The Hacker News",
       "published": "2026-11-10T06:52:54+00:00",
-      "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been described as a use-after-free bug in the XML component",
+      "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: 8.8), has&nbsp;been described as a use-after-free bug in the XML comp",
       "cves": [
         "CVE-2026-125350"
       ],
