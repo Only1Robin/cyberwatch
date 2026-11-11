@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-11T18:42:13+00:00",
+  "updated": "2026-11-11T22:01:15+00:00",
   "items": [
+    {
+      "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+      "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+      "source": "BleepingComputer",
+      "published": "2026-11-11T21:27:40+00:00",
+      "summary": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+      "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+      "source": "BleepingComputer",
+      "published": "2026-11-11T20:54:20+00:00",
+      "summary": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Who Runs the Ransomware Group Qilin?",
       "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
