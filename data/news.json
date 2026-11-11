@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-10T21:30:11+00:00",
+  "updated": "2026-11-11T00:37:29+00:00",
   "items": [
+    {
+      "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+      "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+      "source": "BleepingComputer",
+      "published": "2026-11-10T22:20:19+00:00",
+      "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+      "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+      "source": "Krebs on Security",
+      "published": "2026-11-10T21:55:03+00:00",
+      "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important s",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
       "link": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
