@@ -1,6 +1,51 @@
 {
-  "updated": "2026-11-11T12:50:41+00:00",
+  "updated": "2026-11-11T15:38:48+00:00",
   "items": [
+    {
+      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-11-11T15:12:59+00:00",
+      "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+      "link": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+      "source": "BleepingComputer",
+      "published": "2026-11-11T15:01:11+00:00",
+      "summary": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, tutorials, and exploits targeting Linux systems. [",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+      "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+      "source": "The Hacker News",
+      "published": "2026-11-11T14:01:00+00:00",
+      "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several E.U.-based customers ",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Asus, Zoom Release Security Patches",
+      "link": "https://www.securityweek.com/asus-zoom-release-security-patches/",
+      "source": "SecurityWeek",
+      "published": "2026-11-11T13:58:38+00:00",
+      "summary": "Attackers could exploit them for command execution, memory overwrites, and privilege escalation. The post Asus, Zoom Release Security Patches appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities",
+      "link": "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/",
+      "source": "SecurityWeek",
+      "published": "2026-11-11T13:37:19+00:00",
+      "summary": "Attackers could exploit the bugs to tamper with certificate entries, achieve remote code execution, and compromise hosts. The post Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "N-able releases security hotfixes for zero-day vulnerabilities",
       "link": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
@@ -16,6 +61,15 @@
       "source": "SecurityWeek",
       "published": "2026-11-11T12:24:33+00:00",
       "summary": "The Series C round will fund international expansion and more autonomous features for the firm’s device security platform. The post Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+      "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+      "source": "The Hacker News",
+      "published": "2026-11-11T12:19:40+00:00",
+      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the company that makes the Grok AI assistant. Most of the open apps wer",
       "cves": [],
       "software_hints": []
     },
