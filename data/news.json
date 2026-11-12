@@ -1,6 +1,71 @@
 {
-  "updated": "2026-11-12T12:52:43+00:00",
+  "updated": "2026-11-12T15:47:59+00:00",
   "items": [
+    {
+      "title": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google",
+      "link": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/",
+      "source": "SecurityWeek",
+      "published": "2026-11-12T15:38:31+00:00",
+      "summary": "The mod_http2 race condition, CVE-2026-119618, could let unauthenticated attackers execute code on servers with HTTP/2 enabled. The post Apache Patches Critical HTTP Server RCE Found by Anthropic, Google appeared first on SecurityWeek.",
+      "cves": [
+        "CVE-2026-119618"
+      ],
+      "software_hints": []
+    },
+    {
+      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
+      "source": "BleepingComputer",
+      "published": "2026-11-12T15:07:20+00:00",
+      "summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+      "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
+      "source": "BleepingComputer",
+      "published": "2026-11-12T15:00:10+00:00",
+      "summary": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization can prevent attackers from abusing sensitive endpoint operatio",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Apify rotates API tokens, prompts 2FA resets after breach",
+      "link": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+      "source": "BleepingComputer",
+      "published": "2026-11-12T14:36:47+00:00",
+      "summary": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Chrome, Firefox Updates Patch Over 180 Vulnerabilities",
+      "link": "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/",
+      "source": "SecurityWeek",
+      "published": "2026-11-12T13:42:09+00:00",
+      "summary": "Google fixed 83 flaws with a new Chrome 157 release, and Mozilla addressed 99 bugs in Firefox 160. The post Chrome, Firefox Updates Patch Over 180 Vulnerabilities appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign",
+      "link": "https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/",
+      "source": "SecurityWeek",
+      "published": "2026-11-12T13:39:03+00:00",
+      "summary": "Using thousands of hijacked accounts, the wfx-loot campaign planted a CI secret stealer that ran in over 1,800 GitHub repositories. The post Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Daylight Lands $80 Million for AI-Powered Security Operations",
+      "link": "https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/",
+      "source": "SecurityWeek",
+      "published": "2026-11-12T13:12:11+00:00",
+      "summary": "The company plans to accelerate product development, hire new talent, expand its US presence, and enter new markets. The post Daylight Lands $80 Million for AI-Powered Security Operations appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
