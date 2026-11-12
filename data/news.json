@@ -1,6 +1,89 @@
 {
-  "updated": "2026-11-12T09:48:47+00:00",
+  "updated": "2026-11-12T12:52:43+00:00",
   "items": [
+    {
+      "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
+      "source": "BleepingComputer",
+      "published": "2026-11-12T12:11:11+00:00",
+      "summary": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+      "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+      "source": "The Hacker News",
+      "published": "2026-11-12T12:09:14+00:00",
+      "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations against attacks between VMs, and between VMs and the host. Inside a VM, the flaws may let an attacker wit",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "source": "The Hacker News",
+      "published": "2026-11-12T12:02:51+00:00",
+      "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong to an employee. An unusual API call could come from",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+      "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+      "source": "The Hacker News",
+      "published": "2026-11-12T11:51:43+00:00",
+      "summary": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. \"Based on our initial review, the server issue described depends on a non-default configuration in which the Legacy API",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+      "source": "The Hacker News",
+      "published": "2026-11-12T11:51:31+00:00",
+      "summary": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on purpose. The Threat Research team at Material Security spotted the campaign and ha",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+      "source": "The Hacker News",
+      "published": "2026-11-12T11:33:15+00:00",
+      "summary": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked as CVE-2026-126325, carries a CVSS v4 score of 9.2 out of a maximum of 10.0. It has been described as ",
+      "cves": [
+        "CVE-2026-126325"
+      ],
+      "software_hints": []
+    },
+    {
+      "title": "Notion Customer Data Compromised in Fireworks AI Hack",
+      "link": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
+      "source": "SecurityWeek",
+      "published": "2026-11-12T11:08:52+00:00",
+      "summary": "The attackers accessed chat transcripts for fewer than 1% of Notion workspaces. Most transcripts were unattributable. The post Notion Customer Data Compromised in Fireworks AI Hack appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Hackers Deploy Malware in Fresh ScreenConnect Campaign",
+      "link": "https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/",
+      "source": "SecurityWeek",
+      "published": "2026-11-12T10:39:34+00:00",
+      "summary": "The attackers exploited a vulnerability in a legitimate extension to bypass ScreenConnect authentication. The post Hackers Deploy Malware in Fresh ScreenConnect Campaign appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Microsoft confirms Windows security updates installation issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+      "source": "BleepingComputer",
+      "published": "2026-11-12T10:24:07+00:00",
+      "summary": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Hackers Target N-central Zero-Days as N-able Rushes Patches",
       "link": "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/",
@@ -17,6 +100,17 @@
       "published": "2026-11-12T09:38:00+00:00",
       "summary": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
       "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+      "link": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+      "source": "The Hacker News",
+      "published": "2026-11-12T09:25:00+00:00",
+      "summary": "A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main server while it still lacks some recent changes. MongoDB, the company that makes the da",
+      "cves": [
+        "CVE-2026-118383"
+      ],
       "software_hints": []
     },
     {
