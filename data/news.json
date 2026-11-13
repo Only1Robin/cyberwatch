@@ -1,6 +1,80 @@
 {
-  "updated": "2026-11-13T06:55:04+00:00",
+  "updated": "2026-11-13T09:47:49+00:00",
   "items": [
+    {
+      "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
+      "link": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
+      "source": "SecurityWeek",
+      "published": "2026-11-13T09:36:56+00:00",
+      "summary": "Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions. The post Citrix Patches 10 Critical NetScaler Vulnerabilities appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Microsoft confirms Windows activation failures after November updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+      "source": "BleepingComputer",
+      "published": "2026-11-13T09:36:18+00:00",
+      "summary": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
+      "link": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
+      "source": "SecurityWeek",
+      "published": "2026-11-13T09:21:01+00:00",
+      "summary": "Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches. The post OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
+      "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
+      "source": "SecurityWeek",
+      "published": "2026-11-13T08:50:36+00:00",
+      "summary": "It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process. The post Nightmare Eclipse Drops Windows Zero-Day Exploit &#8216;SignDrop&#8217; appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+      "source": "BleepingComputer",
+      "published": "2026-11-13T08:34:20+00:00",
+      "summary": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+      "source": "The Hacker News",
+      "published": "2026-11-13T08:05:49+00:00",
+      "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS&nbsp; to deploy a backdoor called TSGA. The activity, detailed by Check P",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
+      "link": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
+      "source": "SecurityWeek",
+      "published": "2026-11-13T07:39:04+00:00",
+      "summary": "PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root. The post PHP2Shell Exploited in Destructive Check Point Gateway Attacks appeared first on SecurityWeek.",
+      "cves": [
+        "CVE-2026-123039"
+      ],
+      "software_hints": []
+    },
+    {
+      "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
+      "link": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
+      "source": "SecurityWeek",
+      "published": "2026-11-13T07:20:50+00:00",
+      "summary": "Dubbed 4EverAble2Shell, the flaw could allow remote, unauthenticated attackers to execute code with root privileges. The post Hackers Exploit New N-central Zero-Day Hours After PoC Publication appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
       "link": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
