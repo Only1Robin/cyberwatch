@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-13T00:43:50+00:00",
+  "updated": "2026-11-13T03:42:54+00:00",
   "items": [
+    {
+      "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
+      "link": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
+      "source": "SecurityWeek",
+      "published": "2026-11-13T02:28:21+00:00",
+      "summary": "Also Thursday, the FBI blamed North Korea for a separate social engineering scheme that officials say resulted in the theft of $400 million worth of cryptocurrency. The post FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
