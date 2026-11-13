@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-13T18:39:01+00:00",
+  "updated": "2026-11-13T21:38:10+00:00",
   "items": [
+    {
+      "cve": "CVE-2026-114713",
+      "vendor": "UnrealIRCd",
+      "product": "UnrealIRCd",
+      "name": "UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
+      "dateAdded": "2026-11-13",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-123039",
+      "vendor": "Check Point",
+      "product": "Multiple Products",
+      "name": "Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability",
+      "dateAdded": "2026-11-13",
+      "ransomwareUse": "Unknown"
+    },
     {
       "cve": "CVE-2026-124194",
       "vendor": "Microsoft",
@@ -325,7 +341,7 @@
       "cve": "CVE-2015-5477",
       "vendor": "ISC",
       "product": "BIND",
-      "name": " ISC BIND Data Processing Errors Vulnerability",
+      "name": "ISC BIND Data Processing Errors Vulnerability",
       "dateAdded": "2026-10-08",
       "ransomwareUse": "Unknown"
     },
@@ -453,15 +469,15 @@
       "cve": "CVE-2026-5430",
       "vendor": "WSO2",
       "product": "Multiple Products",
-      "name": "WSO2 Multiple Products Path Traversal Vulnerability ",
+      "name": "WSO2 Multiple Products Path Traversal Vulnerability",
       "dateAdded": "2026-09-24",
       "ransomwareUse": "Unknown"
     },
     {
       "cve": "CVE-2026-71362",
       "vendor": "Adobe",
-      "product": "Commerce and Magento ",
-      "name": "Adobe Commerce and Magento Incorrect Authorization Vulnerability ",
+      "product": "Commerce and Magento",
+      "name": "Adobe Commerce and Magento Incorrect Authorization Vulnerability",
       "dateAdded": "2026-09-24",
       "ransomwareUse": "Unknown"
     },
@@ -916,7 +932,7 @@
     {
       "cve": "CVE-2026-20349",
       "vendor": "Cisco",
-      "product": "Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) ",
+      "product": "Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD)",
       "name": "Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) Heap Inspection Vulnerability",
       "dateAdded": "2026-08-11",
       "ransomwareUse": "Unknown"
@@ -924,7 +940,7 @@
     {
       "cve": "CVE-2026-68820",
       "vendor": "Microsoft",
-      "product": "Windows Ancillary Function Driver for WinSock ",
+      "product": "Windows Ancillary Function Driver for WinSock",
       "name": "Microsoft Windows Ancillary Function Driver for WinSock Use-After-Free Vulnerability",
       "dateAdded": "2026-08-11",
       "ransomwareUse": "Unknown"
@@ -1021,7 +1037,7 @@
       "cve": "CVE-2026-50522",
       "vendor": "Microsoft",
       "product": "SharePoint",
-      "name": "Microsoft SharePoint Deserialization of Untrusted Data Vulnerability ",
+      "name": "Microsoft SharePoint Deserialization of Untrusted Data Vulnerability",
       "dateAdded": "2026-07-22",
       "ransomwareUse": "Unknown"
     },
@@ -1101,7 +1117,7 @@
       "cve": "CVE-2026-56155",
       "vendor": "Microsoft",
       "product": "Active Directory Federation Services",
-      "name": "Microsoft Active Directory Federation Services Insufficient Granularity of Access Control Vulnerability ",
+      "name": "Microsoft Active Directory Federation Services Insufficient Granularity of Access Control Vulnerability",
       "dateAdded": "2026-07-14",
       "ransomwareUse": "Unknown"
     },
@@ -1260,7 +1276,7 @@
     {
       "cve": "CVE-2026-48907",
       "vendor": "Widget Factory",
-      "product": "Joomla Content Editor ",
+      "product": "Joomla Content Editor",
       "name": "Widget Factory Joomla Content Editor Improper Access Control Vulnerability",
       "dateAdded": "2026-06-16",
       "ransomwareUse": "Unknown"
@@ -1284,7 +1300,7 @@
     {
       "cve": "CVE-2026-35273",
       "vendor": "Oracle",
-      "product": " PeopleSoft Enterprise PeopleTools",
+      "product": "PeopleSoft Enterprise PeopleTools",
       "name": "Oracle PeopleSoft Enterprise PeopleTools Missing Authentication for Critical Function Vulnerability",
       "dateAdded": "2026-06-12",
       "ransomwareUse": "Known"
@@ -1940,7 +1956,7 @@
     {
       "cve": "CVE-2026-1603",
       "vendor": "Ivanti",
-      "product": " Endpoint Manager (EPM)",
+      "product": "Endpoint Manager (EPM)",
       "name": "Ivanti Endpoint Manager (EPM) Authentication Bypass Vulnerability",
       "dateAdded": "2026-03-09",
       "ransomwareUse": "Unknown"
@@ -2077,7 +2093,7 @@
       "cve": "CVE-2008-0015",
       "vendor": "Microsoft",
       "product": "Windows",
-      "name": " Microsoft Windows Video ActiveX Control Remote Code Execution Vulnerability",
+      "name": "Microsoft Windows Video ActiveX Control Remote Code Execution Vulnerability",
       "dateAdded": "2026-02-17",
       "ransomwareUse": "Unknown"
     },
@@ -2204,7 +2220,7 @@
     {
       "cve": "CVE-2025-64328",
       "vendor": "Sangoma",
-      "product": "FreePBX ",
+      "product": "FreePBX",
       "name": "Sangoma FreePBX OS Command Injection Vulnerability",
       "dateAdded": "2026-02-03",
       "ransomwareUse": "Unknown"
@@ -2213,7 +2229,7 @@
       "cve": "CVE-2019-19006",
       "vendor": "Sangoma",
       "product": "FreePBX",
-      "name": " Sangoma FreePBX Improper Authentication Vulnerability",
+      "name": "Sangoma FreePBX Improper Authentication Vulnerability",
       "dateAdded": "2026-02-03",
       "ransomwareUse": "Unknown"
     },
@@ -2292,7 +2308,7 @@
     {
       "cve": "CVE-2025-68645",
       "vendor": "Synacor",
-      "product": " Zimbra Collaboration Suite (ZCS)",
+      "product": "Zimbra Collaboration Suite (ZCS)",
       "name": "Synacor Zimbra Collaboration Suite (ZCS) PHP Remote File Inclusion Vulnerability",
       "dateAdded": "2026-01-22",
       "ransomwareUse": "Unknown"
@@ -2384,22 +2400,6 @@
       "name": "WatchGuard Firebox Out of Bounds Write Vulnerability",
       "dateAdded": "2025-12-19",
       "ransomwareUse": "Known"
-    },
-    {
-      "cve": "CVE-2025-59374",
-      "vendor": "ASUS",
-      "product": "Live Update",
-      "name": "ASUS Live Update Embedded Malicious Code Vulnerability",
-      "dateAdded": "2025-12-17",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2025-40602",
-      "vendor": "SonicWall",
-      "product": "SMA1000 appliance",
-      "name": "SonicWall SMA1000 Missing Authorization Vulnerability",
-      "dateAdded": "2025-12-17",
-      "ransomwareUse": "Unknown"
     }
   ]
 }
