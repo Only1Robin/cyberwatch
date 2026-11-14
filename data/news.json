@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-14T15:27:50+00:00",
+  "updated": "2026-11-14T18:27:59+00:00",
   "items": [
+    {
+      "title": "Cursor confirms security breach led to malicious Claude Code extension",
+      "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+      "source": "BleepingComputer",
+      "published": "2026-11-14T17:27:25+00:00",
+      "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "US disrupts North Korean campaign behind $400 million crypto theft",
       "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
