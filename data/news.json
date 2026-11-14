@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-14T09:35:35+00:00",
+  "updated": "2026-11-14T12:31:35+00:00",
   "items": [
+    {
+      "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+      "link": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
+      "source": "SecurityWeek",
+      "published": "2026-11-14T11:00:00+00:00",
+      "summary": "The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones. The post Apple Reveals How Secure Exclaves Shield Camera and Microphone Data appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
       "link": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
