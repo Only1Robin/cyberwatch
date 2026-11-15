@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-15T18:29:32+00:00",
+  "updated": "2026-11-15T21:27:21+00:00",
   "items": [
+    {
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "source": "BleepingComputer",
+      "published": "2026-11-15T18:29:53+00:00",
+      "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "TSMC employee data breach linked to cloud provider",
       "link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
