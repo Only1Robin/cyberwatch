@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-16T08:07:56+00:00",
+  "updated": "2026-11-16T10:32:20+00:00",
   "items": [
+    {
+      "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
+      "link": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
+      "source": "BleepingComputer",
+      "published": "2026-11-16T09:30:04+00:00",
+      "summary": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Tor Updates DoS Defenses Again as Relay Attacks Continue",
+      "link": "https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/",
+      "source": "SecurityWeek",
+      "published": "2026-11-16T08:55:32+00:00",
+      "summary": "Tor 0.4.9.17 patches several security issues, including one related to how built-in DoS protections deal with IPv6. The post Tor Updates DoS Defenses Again as Relay Attacks Continue appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Microsoft pushes Windows emergency updates to fix activation failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
+      "source": "BleepingComputer",
+      "published": "2026-11-16T08:26:52+00:00",
+      "summary": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign",
+      "link": "https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/",
+      "source": "SecurityWeek",
+      "published": "2026-11-16T08:15:12+00:00",
+      "summary": "Phishing emails posing as Microsoft 365 service notices referenced the real outage incident and threatened to delete held messages. The post Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
       "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
