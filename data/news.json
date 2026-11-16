@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-16T03:55:43+00:00",
+  "updated": "2026-11-16T08:07:56+00:00",
   "items": [
+    {
+      "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+      "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
+      "source": "The Hacker News",
+      "published": "2026-11-16T07:34:21+00:00",
+      "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which Amazon's threat intelligence team captured with decoy servers, describe stolen ke",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
+      "link": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
+      "source": "The Hacker News",
+      "published": "2026-11-16T06:53:34+00:00",
+      "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documented by Kaspersky's ICS CERT team after it was contacted by the affected developer ",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
