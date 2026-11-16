@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T16:32:13+00:00",
+  "updated": "2026-11-16T18:44:16+00:00",
   "items": [
+    {
+      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
+      "source": "BleepingComputer",
+      "published": "2026-11-16T16:43:24+00:00",
+      "summary": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Cursor Supply Chain Attack Started at Fireworks AI",
       "link": "https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/",
@@ -52,6 +61,24 @@
       "source": "BleepingComputer",
       "published": "2026-11-16T14:00:00+00:00",
       "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+      "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+      "source": "The Hacker News",
+      "published": "2026-11-16T14:00:00+00:00",
+      "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity. I",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+      "link": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
+      "source": "The Hacker News",
+      "published": "2026-11-16T13:27:20+00:00",
+      "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job. Meanwhile, AI is making bug hunting faster, old flaws are still p",
       "cves": [],
       "software_hints": []
     },
@@ -4597,33 +4624,6 @@
       "source": "The Hacker News",
       "published": "2026-10-25T17:44:09+00:00",
       "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls on",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
-      "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-      "source": "The Hacker News",
-      "published": "2026-10-25T17:19:46+00:00",
-      "summary": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an attack against a European government agency executed in the c",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
-      "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
-      "source": "Krebs on Security",
-      "published": "2026-10-21T15:26:07+00:00",
-      "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaw",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
-      "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "source": "Krebs on Security",
-      "published": "2026-10-19T13:48:56+00:00",
-      "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources c",
       "cves": [],
       "software_hints": []
     }
