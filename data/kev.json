@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-17T15:45:32+00:00",
+  "updated": "2026-11-17T18:46:21+00:00",
   "items": [
+    {
+      "cve": "CVE-2026-115731",
+      "vendor": "Perforce",
+      "product": "Puppet Enterprise",
+      "name": "Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability",
+      "dateAdded": "2026-11-17",
+      "ransomwareUse": "Unknown"
+    },
     {
       "cve": "CVE-2026-114713",
       "vendor": "UnrealIRCd",
@@ -1211,7 +1219,7 @@
     },
     {
       "cve": "CVE-2026-48558",
-      "vendor": "SimpleHelp ",
+      "vendor": "SimpleHelp",
       "product": "SimpleHelp",
       "name": "SimpleHelp Authentication Bypass Vulnerability",
       "dateAdded": "2026-06-29",
@@ -1603,7 +1611,7 @@
     },
     {
       "cve": "CVE-2024-57728",
-      "vendor": "SimpleHelp ",
+      "vendor": "SimpleHelp",
       "product": "SimpleHelp",
       "name": "SimpleHelp Path Traversal Vulnerability",
       "dateAdded": "2026-04-24",
@@ -1611,7 +1619,7 @@
     },
     {
       "cve": "CVE-2024-57726",
-      "vendor": "SimpleHelp ",
+      "vendor": "SimpleHelp",
       "product": "SimpleHelp",
       "name": "SimpleHelp Missing Authorization Vulnerability",
       "dateAdded": "2026-04-24",
@@ -2392,14 +2400,6 @@
       "name": "Digiever DS-2105 Pro Missing Authorization Vulnerability",
       "dateAdded": "2025-12-22",
       "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2025-14733",
-      "vendor": "WatchGuard",
-      "product": "Firebox",
-      "name": "WatchGuard Firebox Out of Bounds Write Vulnerability",
-      "dateAdded": "2025-12-19",
-      "ransomwareUse": "Known"
     }
   ]
 }
