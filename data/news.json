@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T00:42:38+00:00",
+  "updated": "2026-11-17T03:43:52+00:00",
   "items": [
+    {
+      "title": "Optimizely supply chain attack infects major brands' sites with malware",
+      "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/",
+      "source": "BleepingComputer",
+      "published": "2026-11-17T02:12:17+00:00",
+      "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilitie",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
       "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
@@ -4615,15 +4624,6 @@
       "source": "The Hacker News",
       "published": "2026-10-26T11:52:41+00:00",
       "summary": "Two critical flaws in&nbsp;Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say. An attacker would first need a vulnerable Wasmtime build to compile a module they ",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
-      "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
-      "source": "The Hacker News",
-      "published": "2026-10-26T11:23:56+00:00",
-      "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeline, and it feeds the defensive systems that can tie all even",
       "cves": [],
       "software_hints": []
     }
