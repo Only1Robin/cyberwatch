@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-16T21:39:32+00:00",
+  "updated": "2026-11-17T00:42:38+00:00",
   "items": [
+    {
+      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+      "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+      "source": "BleepingComputer",
+      "published": "2026-11-16T22:54:00+00:00",
+      "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
       "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
@@ -4615,15 +4624,6 @@
       "source": "The Hacker News",
       "published": "2026-10-26T11:23:56+00:00",
       "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeline, and it feeds the defensive systems that can tie all even",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-      "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-      "source": "The Hacker News",
-      "published": "2026-10-26T09:54:02+00:00",
-      "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the",
       "cves": [],
       "software_hints": []
     }
