@@ -1,6 +1,60 @@
 {
-  "updated": "2026-11-18T12:54:27+00:00",
+  "updated": "2026-11-18T15:48:45+00:00",
   "items": [
+    {
+      "title": "VeroSecurity Raises $11 Million for AI Security Engineering Platform",
+      "link": "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/",
+      "source": "SecurityWeek",
+      "published": "2026-11-18T15:30:42+00:00",
+      "summary": "AI Security Engineering is a new and essential security discipline now being brought into focus by VeroSecurity. The post VeroSecurity Raises $11 Million for AI Security Engineering Platform appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+      "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
+      "source": "BleepingComputer",
+      "published": "2026-11-18T15:00:10+00:00",
+      "summary": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how stronger identity verification can help organizations prevent social engineering t",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+      "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
+      "source": "The Hacker News",
+      "published": "2026-11-18T14:11:28+00:00",
+      "summary": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines. \"When attackers are exposed, the cheap response is to rotate,\" Bitdefender said in a technical report",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization",
+      "link": "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/",
+      "source": "SecurityWeek",
+      "published": "2026-11-18T13:33:47+00:00",
+      "summary": "Star Blizzard weaponized data and identities stolen in late 2025 to phish and compromise a US organization. The post Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case",
+      "link": "https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/",
+      "source": "SecurityWeek",
+      "published": "2026-11-18T13:19:32+00:00",
+      "summary": "British national Tyler Robert Buchanan has been sentenced to 6 years in prison in the United States, the DOJ announced. The post Last of Five Defendants Sentenced in US Scattered Spider Hacking Case appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+      "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
+      "source": "The Hacker News",
+      "published": "2026-11-18T12:28:30+00:00",
+      "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say. That leaves short PINs open to guessing. In lab tests, the researchers found a four-digit Hello PIN on an AMD l",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
       "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
@@ -145,11 +199,11 @@
       "software_hints": []
     },
     {
-      "title": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover",
+      "title": "Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover",
       "link": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
       "source": "SecurityWeek",
       "published": "2026-11-18T07:43:34+00:00",
-      "summary": "Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work The post Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover appeared first on SecurityWeek.",
+      "summary": "Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work The post Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover appeared first on SecurityWeek.",
       "cves": [],
       "software_hints": []
     },
@@ -4606,66 +4660,6 @@
       "source": "BleepingComputer",
       "published": "2026-10-30T10:16:07+00:00",
       "summary": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack",
-      "link": "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/",
-      "source": "SecurityWeek",
-      "published": "2026-10-30T09:41:36+00:00",
-      "summary": "Malicious code linked to a website monitoring tool was designed to hijack logged-in Polymarket sessions and siphon user funds. The post $2 Million+ Drained From Polymarket Traders in New Supply Chain Attack appeared first on SecurityWeek.",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
-      "link": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/",
-      "source": "SecurityWeek",
-      "published": "2026-10-30T09:32:27+00:00",
-      "summary": "Tracked as CVE-2026-97229, the bug allows unauthenticated attackers to execute arbitrary code on the server. The post Max-Severity GitLab Vulnerability Exploited Against Alpine Linux appeared first on SecurityWeek.",
-      "cves": [
-        "CVE-2026-97229"
-      ],
-      "software_hints": [
-        "GitLab Community Edition and Enterprise Edition"
-      ]
-    },
-    {
-      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
-      "link": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
-      "source": "BleepingComputer",
-      "published": "2026-10-30T09:18:13+00:00",
-      "summary": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-      "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-      "source": "The Hacker News",
-      "published": "2026-10-30T08:55:47+00:00",
-      "summary": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on affected systems. The malicious update, version 2.1.313, was dist",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines",
-      "link": "https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/",
-      "source": "SecurityWeek",
-      "published": "2026-10-30T08:44:49+00:00",
-      "summary": "An integer overflow tracked as CVE-2026-111585 could be used to execute arbitrary code on the viewer’s system. The post TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians&#8217; Machines appeared first on SecurityWeek.",
-      "cves": [
-        "CVE-2026-111585"
-      ],
-      "software_hints": []
-    },
-    {
-      "title": "$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor",
-      "link": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/",
-      "source": "SecurityWeek",
-      "published": "2026-10-30T08:16:26+00:00",
-      "summary": "Blockchain analysts link the record crypto theft to North Korean hackers, as Binance probes a possibly compromised engineer laptop. The post $6 Billion Binance Hack Bears Hallmarks of North Korea&#8217;s TraderTraitor appeared first on SecurityWeek.",
       "cves": [],
       "software_hints": []
     }
