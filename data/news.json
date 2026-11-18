@@ -1,6 +1,51 @@
 {
-  "updated": "2026-11-18T06:57:08+00:00",
+  "updated": "2026-11-18T09:51:23+00:00",
   "items": [
+    {
+      "title": "Microsoft announces Windows Server 2028 with hardened security",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+      "source": "BleepingComputer",
+      "published": "2026-11-18T09:24:31+00:00",
+      "summary": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU",
+      "link": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
+      "source": "SecurityWeek",
+      "published": "2026-11-18T08:47:18+00:00",
+      "summary": "Over 300 patches address unauthenticated, remotely exploitable flaws, while 62 fix critical-severity flaws. The post Oracle Patches 950 Vulnerabilities With November 2026 CSPU appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+      "source": "BleepingComputer",
+      "published": "2026-11-18T08:24:18+00:00",
+      "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover",
+      "link": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
+      "source": "SecurityWeek",
+      "published": "2026-11-18T07:43:34+00:00",
+      "summary": "Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work The post Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+      "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+      "source": "The Hacker News",
+      "published": "2026-11-18T06:45:26+00:00",
+      "summary": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz. The malicious versions, 1.26.1 and 1.26.2, were published 33 minutes apart on N",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
       "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
@@ -11,7 +56,7 @@
       "software_hints": []
     },
     {
-      "title": "Java4Shell (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak on Java 17+ AVX-512 VBMI Servers",
+      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
       "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
       "source": "The Hacker News",
       "published": "2026-11-18T04:27:41+00:00",
@@ -4627,53 +4672,6 @@
       "software_hints": [
         "Cisco Catalyst SD-WAN Controller and Manager"
       ]
-    },
-    {
-      "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
-      "link": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
-      "source": "SecurityWeek",
-      "published": "2026-10-29T16:30:00+00:00",
-      "summary": "Risk managers are trained to spot weak signals, plan for disruption and make hard decisions under uncertainty. But the discipline looks different when the risk is not a system or an enterprise, but you. The post When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis appe",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
-      "link": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
-      "source": "BleepingComputer",
-      "published": "2026-10-29T16:10:31+00:00",
-      "summary": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-      "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-      "source": "The Hacker News",
-      "published": "2026-10-29T15:57:05+00:00",
-      "summary": "A flaw in the Linux kernel's TCP code, tracked as&nbsp;CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale. Anthropic said&nbsp;on October 27 that its AI model wrote an exploit that uses th",
-      "cves": [
-        "CVE-2026-98432"
-      ],
-      "software_hints": []
-    },
-    {
-      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
-      "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
-      "source": "The Hacker News",
-      "published": "2026-10-29T15:20:29+00:00",
-      "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba. The activity involves creating fake GitHub projects that claim to be desktop applic",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model",
-      "link": "https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/",
-      "source": "SecurityWeek",
-      "published": "2026-10-29T15:01:00+00:00",
-      "summary": "Google’s new frontier model scored 88.2% on SEC-bench Pro and is rolling out first to vetted cyber defenders via its Fairwind Program. The post Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model appeared first on SecurityWeek.",
-      "cves": [],
-      "software_hints": []
     }
   ]
 }
