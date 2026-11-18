@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-18T18:42:49+00:00",
+  "updated": "2026-11-18T21:43:33+00:00",
   "items": [
+    {
+      "cve": "CVE-2024-10441",
+      "vendor": "Synology",
+      "product": "DiskStation Manager (DSM)",
+      "name": "Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability",
+      "dateAdded": "2026-11-18",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-40217",
+      "vendor": "BerriAI",
+      "product": "LiteLLM",
+      "name": "BerriAI LiteLLM Unprotected Alternate Channel Vulnerability",
+      "dateAdded": "2026-11-18",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-90817",
+      "vendor": "Vanderbilt University",
+      "product": "Research Electronic Data Capture (REDCap)",
+      "name": "Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability",
+      "dateAdded": "2026-11-18",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-90436",
+      "vendor": "Apache",
+      "product": "Axis",
+      "name": "Apache Axis Unsafe Reflection Vulnerability",
+      "dateAdded": "2026-11-18",
+      "ransomwareUse": "Unknown"
+    },
     {
       "cve": "CVE-2026-115731",
       "vendor": "Perforce",
@@ -2367,38 +2399,6 @@
       "product": "Gogs",
       "name": "Gogs Path Traversal Vulnerability",
       "dateAdded": "2026-01-12",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2009-0556",
-      "vendor": "Microsoft",
-      "product": "Office",
-      "name": "Microsoft Office PowerPoint Code Injection Vulnerability",
-      "dateAdded": "2026-01-07",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2025-37164",
-      "vendor": "Hewlett Packard Enterprise (HPE)",
-      "product": "OneView",
-      "name": "Hewlett Packard Enterprise (HPE) OneView Code Injection Vulnerability",
-      "dateAdded": "2026-01-07",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2025-14847",
-      "vendor": "MongoDB",
-      "product": "MongoDB and MongoDB Server",
-      "name": "MongoDB and MongoDB Server Improper Handling of Length Parameter Inconsistency Vulnerability",
-      "dateAdded": "2025-12-29",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2023-52163",
-      "vendor": "Digiever",
-      "product": "DS-2105 Pro",
-      "name": "Digiever DS-2105 Pro Missing Authorization Vulnerability",
-      "dateAdded": "2025-12-22",
       "ransomwareUse": "Unknown"
     }
   ]
