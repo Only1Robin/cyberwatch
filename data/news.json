@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T15:48:45+00:00",
+  "updated": "2026-11-18T18:42:50+00:00",
   "items": [
+    {
+      "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
+      "source": "BleepingComputer",
+      "published": "2026-11-18T16:58:42+00:00",
+      "summary": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "VeroSecurity Raises $11 Million for AI Security Engineering Platform",
       "link": "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/",
@@ -4651,15 +4660,6 @@
       "source": "The Hacker News",
       "published": "2026-10-30T10:40:45+00:00",
       "summary": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been&nbsp;sentenced by a U.S. federal court&nbsp;to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets. The conspiracy was organized and led by members of former Syrian President B",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-10-30T10:16:07+00:00",
-      "summary": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
       "cves": [],
       "software_hints": []
     }
