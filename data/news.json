@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T21:42:11+00:00",
+  "updated": "2026-11-18T00:50:22+00:00",
   "items": [
+    {
+      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+      "source": "BleepingComputer",
+      "published": "2026-11-17T23:04:21+00:00",
+      "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
       "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
@@ -315,6 +324,17 @@
       "software_hints": [
         "Perforce Puppet Enterprise"
       ]
+    },
+    {
+      "title": "Critical Java Vulnerability Requires Immediate Patching",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
+      "source": "CISA Advisories",
+      "published": "2026-11-17T12:00:00+00:00",
+      "summary": "Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938. This critical memory-corruption vulnerability, known as “Java4Shell,” affects the Base64 decoder of the x86-64 HotSpot Java Virtual Machine (JVM), which is part of the Jav",
+      "cves": [
+        "CVE-2026-114938"
+      ],
+      "software_hints": []
     },
     {
       "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
@@ -4650,24 +4670,6 @@
       "source": "BleepingComputer",
       "published": "2026-10-29T14:00:10+00:00",
       "summary": "AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents operate inside browsers and why traditional security tools may struggle to distinguish their activity fr",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-10-29T13:59:48+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell flaws in the wild. [...]",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities",
-      "link": "https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
-      "source": "SecurityWeek",
-      "published": "2026-10-29T13:42:52+00:00",
-      "summary": "The flaws could lead to arbitrary code execution, authorization bypasses, and privilege escalation. The post Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek.",
       "cves": [],
       "software_hints": []
     }
