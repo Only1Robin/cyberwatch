@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-18T00:50:22+00:00",
+  "updated": "2026-11-18T03:45:19+00:00",
   "items": [
+    {
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "source": "Krebs on Security",
+      "published": "2026-11-18T02:52:04+00:00",
+      "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw ",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says",
+      "link": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/",
+      "source": "SecurityWeek",
+      "published": "2026-11-18T02:15:07+00:00",
+      "summary": "The problem disrupted the operations of NSANet, a classified internal network used by employees of the agency. The post Classified Communications Network at the National Security Agency Goes Down, Defense Official Says appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
       "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
@@ -4652,24 +4670,6 @@
       "source": "BleepingComputer",
       "published": "2026-10-29T14:35:40+00:00",
       "summary": "Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the \"Administrator protection\" security feature is enabled. [...]",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps",
-      "link": "https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/",
-      "source": "SecurityWeek",
-      "published": "2026-10-29T14:18:03+00:00",
-      "summary": "Cisco open sourced Project Quarry, a rule language for detecting AI agent attacks that only emerge across sequences of benign actions. The post Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps appeared first on SecurityWeek.",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "3 Ways AI Agents Already Operate in Your Browser",
-      "link": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
-      "source": "BleepingComputer",
-      "published": "2026-10-29T14:00:10+00:00",
-      "summary": "AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents operate inside browsers and why traditional security tools may struggle to distinguish their activity fr",
       "cves": [],
       "software_hints": []
     }
