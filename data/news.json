@@ -1,6 +1,80 @@
 {
-  "updated": "2026-11-19T12:56:18+00:00",
+  "updated": "2026-11-19T15:47:50+00:00",
   "items": [
+    {
+      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+      "source": "The Hacker News",
+      "published": "2026-11-19T15:18:07+00:00",
+      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The list of vulnerabilities is as follows - CVE-2026-115560 (CVSS score: 9.2) - An improper input ",
+      "cves": [
+        "CVE-2026-115560"
+      ],
+      "software_hints": []
+    },
+    {
+      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+      "source": "The Hacker News",
+      "published": "2026-11-19T15:11:06+00:00",
+      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no workaround. vCenter i",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Five warning signs of ransomware breach before encryption or data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+      "source": "BleepingComputer",
+      "published": "2026-11-19T15:00:10+00:00",
+      "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical systems and backups. [",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+      "source": "BleepingComputer",
+      "published": "2026-11-19T14:57:24+00:00",
+      "summary": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+      "source": "The Hacker News",
+      "published": "2026-11-19T14:33:06+00:00",
+      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote code execution, and the project rates the vulnerable configurations as uncommon.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Nvidia Responds to Gentlemen Ransomware Claim",
+      "link": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
+      "source": "SecurityWeek",
+      "published": "2026-11-19T14:17:32+00:00",
+      "summary": "Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim. The post Nvidia Responds to Gentlemen Ransomware Claim appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release",
+      "link": "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/",
+      "source": "SecurityWeek",
+      "published": "2026-11-19T13:12:20+00:00",
+      "summary": "Attackers hacked clustered Cisco Expressway devices at a Russian organization and prepared tooling for lateral movement. The post Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+      "source": "BleepingComputer",
+      "published": "2026-11-19T13:08:08+00:00",
+      "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "StepSecurity Secures $20 Million to Expand Supply Chain Protection",
       "link": "https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/",
@@ -26,6 +100,37 @@
       "published": "2026-11-19T12:00:00+00:00",
       "summary": "Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it. The post The Governance Gap in Open-Weight AI and What to Do About It appeared first on SecurityWeek.",
       "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Elecbrakes EB2, VM1, ELBC2000",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
+      "source": "CISA Advisories",
+      "published": "2026-11-19T12:00:00+00:00",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain control of the brakes of a trailer, modify the firmware, disable the brake lights, modify the brake conditions or disable other critical safety features. The following versions of Elecbrakes EB2, VM1, ",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "libumqtt",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
+      "source": "CISA Advisories",
+      "published": "2026-11-19T12:00:00+00:00",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt &lt;=1.1.1 (CVE-2026-125132) CVSS Vendor Equipment v3 8.6 libumqtt libum",
+      "cves": [
+        "CVE-2026-125132"
+      ],
+      "software_hints": []
+    },
+    {
+      "title": "Autonomy Logic OpenPLC Runtime",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
+      "source": "CISA Advisories",
+      "published": "2026-11-19T12:00:00+00:00",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime &lt;=4.2.4 (CVE-2026-126088) CVSS Vendor Equipment v3 8.1 Autonomy Logic OpenPLC Ru",
+      "cves": [
+        "CVE-2026-126088"
+      ],
       "software_hints": []
     },
     {
@@ -4567,107 +4672,6 @@
       "source": "BleepingComputer",
       "published": "2026-11-01T15:11:21+00:00",
       "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
-      "source": "BleepingComputer",
-      "published": "2026-11-01T13:53:11+00:00",
-      "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
-      "link": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
-      "source": "SecurityWeek",
-      "published": "2026-11-01T11:15:00+00:00",
-      "summary": "The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues. The post Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations appeared first on SecurityWeek.",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-      "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-      "source": "The Hacker News",
-      "published": "2026-11-01T08:51:31+00:00",
-      "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate. Once in, the attacker would act as that clien",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
-      "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
-      "source": "The Hacker News",
-      "published": "2026-11-01T07:25:40+00:00",
-      "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company. Polymarket says&nbsp;it is refunding about $2.7 million to ",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-      "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-      "source": "The Hacker News",
-      "published": "2026-11-01T07:03:00+00:00",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI, along with",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
-      "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
-      "source": "The Hacker News",
-      "published": "2026-11-01T07:02:58+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government entities in Asia and in",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Northflank security breach leads to abuse of customers' AI API keys",
-      "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
-      "source": "BleepingComputer",
-      "published": "2026-10-31T18:01:12+00:00",
-      "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
-      "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-      "source": "BleepingComputer",
-      "published": "2026-10-31T15:35:11+00:00",
-      "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
-      "cves": [
-        "CVE-2026-58882"
-      ],
-      "software_hints": []
-    },
-    {
-      "title": "Reddit to lock content behind logins to fight scrapers",
-      "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
-      "source": "BleepingComputer",
-      "published": "2026-10-31T14:05:15+00:00",
-      "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
-      "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-      "source": "BleepingComputer",
-      "published": "2026-10-31T13:10:19+00:00",
-      "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, and produce reproducible findings that stand up to s",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-      "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
-      "source": "BleepingComputer",
-      "published": "2026-10-31T12:50:09+00:00",
-      "summary": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]",
       "cves": [],
       "software_hints": []
     }
