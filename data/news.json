@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-19T03:46:45+00:00",
+  "updated": "2026-11-19T06:56:57+00:00",
   "items": [
+    {
+      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+      "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+      "source": "The Hacker News",
+      "published": "2026-11-19T04:33:46+00:00",
+      "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026, between 2 and 2:30 p.m. UTC. \"These releases are part of PHP's regular four-week release cycle and wi",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
       "link": "https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/",
@@ -4656,15 +4665,6 @@
       "source": "SecurityWeek",
       "published": "2026-10-30T14:00:00+00:00",
       "summary": "As organizations eliminate passwords, attackers will adapt. Instead of attacking the authenticator directly, they will look for opportunities around it. The post Passkeys Are Better Than Passwords. But They Are Not Enough. appeared first on SecurityWeek.",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Bulletproof Host Virtualine Loses Its Domain to FBI Seizure",
-      "link": "https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/",
-      "source": "SecurityWeek",
-      "published": "2026-10-30T13:36:12+00:00",
-      "summary": "It allowed customers to host hack-for-hire services, supported ransomware and infostealer operators, and accepted crypto payments. The post Bulletproof Host Virtualine Loses Its Domain to FBI Seizure appeared first on SecurityWeek.",
       "cves": [],
       "software_hints": []
     }
