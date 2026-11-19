@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-18T21:43:34+00:00",
+  "updated": "2026-11-19T00:51:06+00:00",
   "items": [
+    {
+      "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+      "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+      "source": "BleepingComputer",
+      "published": "2026-11-18T23:08:33+00:00",
+      "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
       "link": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
@@ -4656,15 +4665,6 @@
       "source": "BleepingComputer",
       "published": "2026-10-30T13:00:32+00:00",
       "summary": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
-      "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
-      "source": "The Hacker News",
-      "published": "2026-10-30T12:21:56+00:00",
-      "summary": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. It is telling everyone who bought a Trezor from CryptoBilis since March 2026 to m",
       "cves": [],
       "software_hints": []
     }
