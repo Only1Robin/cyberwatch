@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-20T15:47:20+00:00",
+  "updated": "2026-11-20T18:48:58+00:00",
   "items": [
+    {
+      "cve": "CVE-2026-129448",
+      "vendor": "Apache",
+      "product": "Roller",
+      "name": "Apache Roller Deserialization of Untrusted Data Vulnerability",
+      "dateAdded": "2026-11-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-123890",
+      "vendor": "Broadcom",
+      "product": "VMware vCenter",
+      "name": "VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+      "dateAdded": "2026-11-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-42884",
+      "vendor": "SAP",
+      "product": "NetWeaver",
+      "name": "SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability",
+      "dateAdded": "2026-11-20",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-76466",
+      "vendor": "Cisco",
+      "product": "Expressway Series",
+      "name": "Cisco Expressway Series Use of Hard-coded Credentials Vulnerability",
+      "dateAdded": "2026-11-20",
+      "ransomwareUse": "Unknown"
+    },
     {
       "cve": "CVE-2024-10441",
       "vendor": "Synology",
@@ -2367,38 +2399,6 @@
       "product": "Vitejs",
       "name": "Vite Vitejs Improper Access Control Vulnerability",
       "dateAdded": "2026-01-22",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2025-54313",
-      "vendor": "Prettier",
-      "product": "eslint-config-prettier",
-      "name": "Prettier eslint-config-prettier Embedded Malicious Code Vulnerability",
-      "dateAdded": "2026-01-22",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2026-20045",
-      "vendor": "Cisco",
-      "product": "Unified Communications Manager",
-      "name": "Cisco Unified Communications Products Code Injection Vulnerability",
-      "dateAdded": "2026-01-21",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2026-20805",
-      "vendor": "Microsoft",
-      "product": "Windows",
-      "name": "Microsoft Windows Information Disclosure Vulnerability",
-      "dateAdded": "2026-01-13",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2025-8110",
-      "vendor": "Gogs",
-      "product": "Gogs",
-      "name": "Gogs Path Traversal Vulnerability",
-      "dateAdded": "2026-01-12",
       "ransomwareUse": "Unknown"
     }
   ]

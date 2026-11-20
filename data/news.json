@@ -1,6 +1,44 @@
 {
-  "updated": "2026-11-20T15:47:21+00:00",
+  "updated": "2026-11-20T18:48:59+00:00",
   "items": [
+    {
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "source": "BleepingComputer",
+      "published": "2026-11-20T17:30:00+00:00",
+      "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+      "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+      "source": "The Hacker News",
+      "published": "2026-11-20T16:58:16+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company ThreatFabric said it discovered the threat in late October 202",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
+      "link": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
+      "source": "SecurityWeek",
+      "published": "2026-11-20T16:01:02+00:00",
+      "summary": "Tracked as CVE-2026-23871, the vulnerability was found by WhatsApp’s security team, and it may have been used to make scam messages more credible. The post WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign appeared first on SecurityWeek.",
+      "cves": [
+        "CVE-2026-23871"
+      ],
+      "software_hints": []
+    },
+    {
+      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+      "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+      "source": "BleepingComputer",
+      "published": "2026-11-20T15:58:06+00:00",
+      "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
       "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
@@ -122,7 +160,9 @@
       "cves": [
         "CVE-2026-76466"
       ],
-      "software_hints": []
+      "software_hints": [
+        "Cisco Expressway Series"
+      ]
     },
     {
       "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
@@ -133,7 +173,9 @@
       "cves": [
         "CVE-2026-123890"
       ],
-      "software_hints": []
+      "software_hints": [
+        "Broadcom VMware vCenter"
+      ]
     },
     {
       "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
@@ -582,7 +624,9 @@
       "cves": [
         "CVE-2026-129448"
       ],
-      "software_hints": []
+      "software_hints": [
+        "Apache Roller"
+      ]
     },
     {
       "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
@@ -4635,46 +4679,6 @@
       "source": "The Hacker News",
       "published": "2026-11-03T07:27:07+00:00",
       "summary": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reported more than several dozen affected stores, and some had to throw away chilled an",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
-      "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
-      "source": "The Hacker News",
-      "published": "2026-11-03T05:34:41+00:00",
-      "summary": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for a critical function that could be exploited by an u",
-      "cves": [
-        "CVE-2026-58115"
-      ],
-      "software_hints": []
-    },
-    {
-      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
-      "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
-      "source": "The Hacker News",
-      "published": "2026-11-03T05:34:37+00:00",
-      "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful exploitation of the fl",
-      "cves": [
-        "CVE-2026-81648"
-      ],
-      "software_hints": []
-    },
-    {
-      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
-      "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
-      "source": "Krebs on Security",
-      "published": "2026-11-03T02:24:31+00:00",
-      "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown s",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
-      "source": "BleepingComputer",
-      "published": "2026-11-02T21:40:14+00:00",
-      "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
       "cves": [],
       "software_hints": []
     }
