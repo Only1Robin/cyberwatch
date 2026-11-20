@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-19T21:40:09+00:00",
+  "updated": "2026-11-20T00:43:13+00:00",
   "items": [
+    {
+      "title": "VMware patches vCenter zero-day exploited in attacks since September",
+      "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "source": "BleepingComputer",
+      "published": "2026-11-20T00:26:25+00:00",
+      "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+      "source": "BleepingComputer",
+      "published": "2026-11-19T22:25:42+00:00",
+      "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
       "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
@@ -4649,24 +4667,6 @@
       "source": "The Hacker News",
       "published": "2026-11-02T11:08:45+00:00",
       "summary": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, including one for a domain controller. Microsoft said ",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
-      "link": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
-      "source": "The Hacker News",
-      "published": "2026-11-02T10:49:59+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure. The activity, observed by Palo Alto Networks Unit 42 between October 2025 and April 2026, has been track",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Chainalysis Discloses Data Breach Following AI-Driven Cyberattack",
-      "link": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/",
-      "source": "SecurityWeek",
-      "published": "2026-11-02T10:27:49+00:00",
-      "summary": "The attackers used offensive agentic techniques to access the company’s systems and internal tools. The post Chainalysis Discloses Data Breach Following AI-Driven Cyberattack appeared first on SecurityWeek.",
       "cves": [],
       "software_hints": []
     }
