@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-21T12:40:23+00:00",
+  "updated": "2026-11-21T15:35:28+00:00",
   "items": [
+    {
+      "title": "BADBOX 3.0 botnet returns with record-breaking 40 billion daily ad requests",
+      "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+      "source": "BleepingComputer",
+      "published": "2026-11-21T15:17:27+00:00",
+      "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+      "source": "BleepingComputer",
+      "published": "2026-11-21T14:26:04+00:00",
+      "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
       "link": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
@@ -4669,26 +4687,6 @@
       "software_hints": [
         "WordPress WordPress Core"
       ]
-    },
-    {
-      "title": "Subnet Solutions PowerSYSTEM Center",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01",
-      "source": "CISA Advisories",
-      "published": "2026-11-03T12:00:00+00:00",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources. The following versions of Subnet Solutions PowerSYSTEM Center are affected: PowerSYSTEM Center 2020 &lt;=5.29.x (CVE-2026-63017) ",
-      "cves": [
-        "CVE-2026-63017"
-      ],
-      "software_hints": []
-    },
-    {
-      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-      "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-      "source": "The Hacker News",
-      "published": "2026-11-03T11:23:53+00:00",
-      "summary": "Fixed kernels for a&nbsp;use-after-free vulnerability in the Linux kernel's IPv4 TCP code&nbsp;are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular update. The",
-      "cves": [],
-      "software_hints": []
     }
   ]
 }
