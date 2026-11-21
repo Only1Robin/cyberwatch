@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-21T06:53:10+00:00",
+  "updated": "2026-11-21T09:39:37+00:00",
   "items": [
+    {
+      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+      "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+      "source": "The Hacker News",
+      "published": "2026-11-21T08:49:20+00:00",
+      "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The feature applies to agentic systems built into iOS 27 and on Android versions wher",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+      "source": "The Hacker News",
+      "published": "2026-11-21T08:49:13+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
       "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
@@ -24,7 +42,7 @@
       "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
       "source": "The Hacker News",
       "published": "2026-11-20T17:57:20+00:00",
-      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of external ad-reply URLs",
+      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been described as a case of incomplete validation of exte",
       "cves": [
         "CVE-2026-23871"
       ],
@@ -4669,24 +4687,6 @@
       "source": "SecurityWeek",
       "published": "2026-11-03T09:49:12+00:00",
       "summary": "The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity. The post UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028 appeared first on Securi",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Google Dismantles XCPE Botnet of 1.3 Million Android Devices",
-      "link": "https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/",
-      "source": "SecurityWeek",
-      "published": "2026-11-03T09:22:09+00:00",
-      "summary": "The botnet was created and operated for financial gain by Android OEM/ODM Videostrong Technology. The post Google Dismantles XCPE Botnet of 1.3 Million Android Devices appeared first on SecurityWeek.",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training",
-      "link": "https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/",
-      "source": "SecurityWeek",
-      "published": "2026-11-03T08:49:03+00:00",
-      "summary": "The NATO CCDCOE exercise in Estonia introduces AI agents and OpenAI Daybreak into joint cyber and kinetic operations training. The post NATO&#8217;s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training appeared first on SecurityWeek.",
       "cves": [],
       "software_hints": []
     }
