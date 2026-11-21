@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-21T09:39:37+00:00",
+  "updated": "2026-11-21T12:40:23+00:00",
   "items": [
+    {
+      "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+      "link": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+      "source": "SecurityWeek",
+      "published": "2026-11-21T12:08:50+00:00",
+      "summary": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers&#8217; AI Agents Exploited Medical Software Zero-Day appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+      "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+      "source": "The Hacker News",
+      "published": "2026-11-21T11:53:07+00:00",
+      "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the credentials Muse stores for the user's connected accounts. The work was a l",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+      "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+      "source": "The Hacker News",
+      "published": "2026-11-21T11:05:53+00:00",
+      "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions. The b",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+      "source": "The Hacker News",
+      "published": "2026-11-21T11:03:17+00:00",
+      "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The flaw allows an attacker with no account to write files outside",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
       "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
@@ -4651,42 +4687,6 @@
       "source": "The Hacker News",
       "published": "2026-11-03T11:23:53+00:00",
       "summary": "Fixed kernels for a&nbsp;use-after-free vulnerability in the Linux kernel's IPv4 TCP code&nbsp;are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular update. The",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-      "link": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-      "source": "The Hacker News",
-      "published": "2026-11-03T11:18:20+00:00",
-      "summary": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue. Gartner®’s report on exposure prioritization states that fewer t",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
-      "link": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
-      "source": "The Hacker News",
-      "published": "2026-11-03T11:00:45+00:00",
-      "summary": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group has focused exclusively on Ukrainian targets, with a clear preference for law enforcement and justice",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Harvard University data breach exposed info of 851,000 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
-      "source": "BleepingComputer",
-      "published": "2026-11-03T10:53:25+00:00",
-      "summary": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028",
-      "link": "https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/",
-      "source": "SecurityWeek",
-      "published": "2026-11-03T09:49:12+00:00",
-      "summary": "The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity. The post UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028 appeared first on Securi",
       "cves": [],
       "software_hints": []
     }
