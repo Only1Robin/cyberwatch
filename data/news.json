@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-20T21:37:59+00:00",
+  "updated": "2026-11-21T00:46:30+00:00",
   "items": [
+    {
+      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "source": "Krebs on Security",
+      "published": "2026-11-21T00:36:39+00:00",
+      "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers ",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
       "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
@@ -4678,15 +4687,6 @@
       "source": "SecurityWeek",
       "published": "2026-11-03T08:49:03+00:00",
       "summary": "The NATO CCDCOE exercise in Estonia introduces AI agents and OpenAI Daybreak into joint cyber and kinetic operations training. The post NATO&#8217;s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training appeared first on SecurityWeek.",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
-      "source": "The Hacker News",
-      "published": "2026-11-03T08:31:48+00:00",
-      "summary": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on instances running older versions. \"Our investigation found that these attacks targ",
       "cves": [],
       "software_hints": []
     }
