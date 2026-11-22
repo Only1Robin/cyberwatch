@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-22T18:33:41+00:00",
+  "updated": "2026-11-22T21:33:24+00:00",
   "items": [
+    {
+      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+      "source": "BleepingComputer",
+      "published": "2026-11-22T18:45:37+00:00",
+      "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
       "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
@@ -4672,15 +4681,6 @@
       "source": "BleepingComputer",
       "published": "2026-11-03T15:06:16+00:00",
       "summary": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-      "link": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-      "source": "BleepingComputer",
-      "published": "2026-11-03T15:00:10+00:00",
-      "summary": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection engineering to threat hunting and exposure manageme",
       "cves": [],
       "software_hints": []
     }
