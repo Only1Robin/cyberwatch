@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-23T18:48:06+00:00",
+  "updated": "2026-11-23T21:41:41+00:00",
   "items": [
+    {
+      "cve": "CVE-2026-133968",
+      "vendor": "Project MONAI",
+      "product": "MONAI Label",
+      "name": "Project MONAI MONAI Label Path Traversal Vulnerability",
+      "dateAdded": "2026-11-23",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-134624",
+      "vendor": "N-able",
+      "product": "MailAssure",
+      "name": "N-able MailAssure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability",
+      "dateAdded": "2026-11-23",
+      "ransomwareUse": "Unknown"
+    },
     {
       "cve": "CVE-2026-129448",
       "vendor": "Apache",
@@ -2382,22 +2398,6 @@
       "vendor": "Synacor",
       "product": "Zimbra Collaboration Suite (ZCS)",
       "name": "Synacor Zimbra Collaboration Suite (ZCS) PHP Remote File Inclusion Vulnerability",
-      "dateAdded": "2026-01-22",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2025-34026",
-      "vendor": "Versa",
-      "product": "Concerto",
-      "name": "Versa Concerto Improper Authentication Vulnerability",
-      "dateAdded": "2026-01-22",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2025-31125",
-      "vendor": "Vite",
-      "product": "Vitejs",
-      "name": "Vite Vitejs Improper Access Control Vulnerability",
       "dateAdded": "2026-01-22",
       "ransomwareUse": "Unknown"
     }
