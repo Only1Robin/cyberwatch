@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-24T15:56:01+00:00",
+  "updated": "2026-11-24T18:47:17+00:00",
   "items": [
+    {
+      "cve": "CVE-2026-132224",
+      "vendor": "Optimizely",
+      "product": "Web Experimentation",
+      "name": "Optimizely Web Experimentation External Control of Critical State Data Vulnerability",
+      "dateAdded": "2026-11-24",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-131914",
+      "vendor": "Idunno",
+      "product": "AntiCsrf",
+      "name": "Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability",
+      "dateAdded": "2026-11-24",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-132165",
+      "vendor": "Drupal",
+      "product": "Core",
+      "name": "Drupal Core Remote Code Execution Vulnerability",
+      "dateAdded": "2026-11-24",
+      "ransomwareUse": "Unknown"
+    },
     {
       "cve": "CVE-2026-133968",
       "vendor": "Project MONAI",
@@ -2375,30 +2399,6 @@
       "product": "InetUtils",
       "name": "GNU InetUtils Argument Injection Vulnerability",
       "dateAdded": "2026-01-26",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2026-21509",
-      "vendor": "Microsoft",
-      "product": "Office",
-      "name": "Microsoft Office Security Feature Bypass Vulnerability",
-      "dateAdded": "2026-01-26",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2024-37079",
-      "vendor": "Broadcom",
-      "product": "VMware vCenter Server",
-      "name": "Broadcom VMware vCenter Server Out-of-bounds Write Vulnerability",
-      "dateAdded": "2026-01-23",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2025-68645",
-      "vendor": "Synacor",
-      "product": "Zimbra Collaboration Suite (ZCS)",
-      "name": "Synacor Zimbra Collaboration Suite (ZCS) PHP Remote File Inclusion Vulnerability",
-      "dateAdded": "2026-01-22",
       "ransomwareUse": "Unknown"
     }
   ]
