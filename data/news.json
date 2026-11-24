@@ -1,6 +1,89 @@
 {
-  "updated": "2026-11-24T12:57:31+00:00",
+  "updated": "2026-11-24T15:56:02+00:00",
   "items": [
+    {
+      "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+      "link": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+      "source": "BleepingComputer",
+      "published": "2026-11-24T15:10:10+00:00",
+      "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+      "link": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
+      "source": "BleepingComputer",
+      "published": "2026-11-24T15:01:11+00:00",
+      "summary": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation can reduce vulnerability noise and improve software ",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "European Commission Uncovers Data Breach in Cyberattack Investigation",
+      "link": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/",
+      "source": "SecurityWeek",
+      "published": "2026-11-24T14:49:59+00:00",
+      "summary": "Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October. The post European Commission Uncovers Data Breach in Cyberattack Investigation appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
+      "link": "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/",
+      "source": "SecurityWeek",
+      "published": "2026-11-24T14:21:56+00:00",
+      "summary": "The attacks were launched from 99 IP addresses and targeted organizations across multiple industries and countries. The post Check Point Security Management Servers Hacked in AI-Assisted Campaign appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "McDonald's Japan data breach exposes customer location information",
+      "link": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+      "source": "BleepingComputer",
+      "published": "2026-11-24T14:09:37+00:00",
+      "summary": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+      "link": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+      "source": "BleepingComputer",
+      "published": "2026-11-24T13:34:23+00:00",
+      "summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Anthropic Expands Enterprise Safeguards for Detecting AI Misuse",
+      "link": "https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/",
+      "source": "SecurityWeek",
+      "published": "2026-11-24T13:30:23+00:00",
+      "summary": "EFS helps zero-retention customers spot Claude misuse spread across many requests while keeping conversation data in their own cloud. The post Anthropic Expands Enterprise Safeguards for Detecting AI Misuse appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+      "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T13:28:26+00:00",
+      "summary": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical vulnerability, tracked as CVE-2026-123903, is rated 9.8 out of 10.0 on the CVSS",
+      "cves": [
+        "CVE-2026-123903"
+      ],
+      "software_hints": []
+    },
+    {
+      "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+      "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T13:28:21+00:00",
+      "summary": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The cluster, dubbed O-UNC-053, is characterized by the use of voice phishing (aka vi",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
       "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
@@ -34,6 +117,35 @@
       "source": "The Hacker News",
       "published": "2026-11-24T12:01:54+00:00",
       "summary": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis and IOC research. That's a significant opportunity as manual ",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+      "source": "CISA Advisories",
+      "published": "2026-11-24T12:00:00+00:00",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devices, connection item",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Danfoss AK-SM 8xxA Series",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+      "source": "CISA Advisories",
+      "published": "2026-11-24T12:00:00+00:00",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA &lt;=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1 Vulne",
+      "cves": [
+        "CVE-2026-129713"
+      ],
+      "software_hints": []
+    },
+    {
+      "title": "AutomationDirect C-More EA9 Programming Software",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+      "source": "CISA Advisories",
+      "published": "2026-11-24T12:00:00+00:00",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The following versions of AutomationDirect C-More EA",
       "cves": [],
       "software_hints": []
     },
@@ -4583,116 +4695,6 @@
       "source": "BleepingComputer",
       "published": "2026-11-05T09:18:29+00:00",
       "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
-      "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
-      "source": "The Hacker News",
-      "published": "2026-11-05T09:13:28+00:00",
-      "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files in iCloud Drive, by s",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-      "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-      "source": "The Hacker News",
-      "published": "2026-11-05T08:42:03+00:00",
-      "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the threat as active and on",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-      "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-      "source": "The Hacker News",
-      "published": "2026-11-05T07:06:33+00:00",
-      "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface run commands on it without logging in. Zyxel has r",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-      "source": "The Hacker News",
-      "published": "2026-11-05T05:17:04+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability in question is CVE-2024-278",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Want to Rent an Internet Address at the White House?",
-      "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
-      "source": "Krebs on Security",
-      "published": "2026-11-05T04:36:17+00:00",
-      "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was g",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Vercel rolls out new protection against stolen session cookie attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-11-04T21:31:18+00:00",
-      "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-      "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-      "source": "BleepingComputer",
-      "published": "2026-11-04T20:58:19+00:00",
-      "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-      "source": "BleepingComputer",
-      "published": "2026-11-04T19:05:19+00:00",
-      "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
-      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
-      "source": "BleepingComputer",
-      "published": "2026-11-04T18:02:56+00:00",
-      "summary": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-      "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-      "source": "The Hacker News",
-      "published": "2026-11-04T17:00:46+00:00",
-      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that&nbsp;Debian,&nbsp;Ubuntu, and&nbsp;APT's developers&nbsp;published on November 4.",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-      "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-      "source": "The Hacker News",
-      "published": "2026-11-04T17:00:38+00:00",
-      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file rea",
-      "cves": [
-        "CVE-2026-109593"
-      ],
-      "software_hints": []
-    },
-    {
-      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-      "link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-      "source": "BleepingComputer",
-      "published": "2026-11-04T16:58:46+00:00",
-      "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]",
       "cves": [],
       "software_hints": []
     }
