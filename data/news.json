@@ -1,6 +1,82 @@
 {
-  "updated": "2026-11-25T06:59:06+00:00",
+  "updated": "2026-11-25T09:59:20+00:00",
   "items": [
+    {
+      "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
+      "link": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
+      "source": "The Hacker News",
+      "published": "2026-11-25T09:06:59+00:00",
+      "summary": "An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from. The flaw used in the attack had been in the registry's code since February 2016, and the team that maintains the service had ",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
+      "link": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/",
+      "source": "SecurityWeek",
+      "published": "2026-11-25T09:05:13+00:00",
+      "summary": "Attackers can exploit CVE-2026-131914 to achieve remote code execution via a single web request containing specially crafted data. The post Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library appeared first on SecurityWeek.",
+      "cves": [
+        "CVE-2026-131914"
+      ],
+      "software_hints": [
+        "Idunno AntiCsrf"
+      ]
+    },
+    {
+      "title": "Microsoft confirms authentication issues after November updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
+      "source": "BleepingComputer",
+      "published": "2026-11-25T09:02:57+00:00",
+      "summary": "Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls",
+      "link": "https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/",
+      "source": "SecurityWeek",
+      "published": "2026-11-25T08:12:24+00:00",
+      "summary": "A China-linked hacking group chained PHP2Shell with Fragnesia in AI-assisted attacks that hit 25 servers. The post Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Drupal Flaw Found by Anthropic Scanner Exploited in Attacks",
+      "link": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/",
+      "source": "SecurityWeek",
+      "published": "2026-11-25T08:01:06+00:00",
+      "summary": "CISA has added the vulnerability to its KEV catalog and instructed federal agencies to patch it within three days. The post Drupal Flaw Found by Anthropic Scanner Exploited in Attacks appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Hackers reportedly breached CIA intelligence analysis system",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+      "source": "BleepingComputer",
+      "published": "2026-11-25T07:45:03+00:00",
+      "summary": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
+      "link": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
+      "source": "The Hacker News",
+      "published": "2026-11-25T06:50:19+00:00",
+      "summary": "An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world. The intrusion activity, tracked by GreyNoise under the moniker GreyNoise Threat 13 (GT13",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
+      "link": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
+      "source": "The Hacker News",
+      "published": "2026-11-25T06:37:06+00:00",
+      "summary": "Palo Alto Networks Unit 42 has disclosed that it's tracking and has responded to \"numerous waves of vishing attacks\" orchestrated by Com-affiliated threat actors since August 2026 that have led to data theft and extortion attempts. The attacks have targeted financial services, healthcare, and legal ",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
       "link": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
@@ -4629,78 +4705,6 @@
       "source": "SecurityWeek",
       "published": "2026-11-05T17:32:37+00:00",
       "summary": "An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million. The post AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research appeared first on SecurityWeek.",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
-      "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
-      "source": "The Hacker News",
-      "published": "2026-11-05T16:42:46+00:00",
-      "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long. OpenSSH, which rates the flaw cri",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
-      "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-      "source": "The Hacker News",
-      "published": "2026-11-05T16:42:32+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration ri",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-      "source": "BleepingComputer",
-      "published": "2026-11-05T16:24:26+00:00",
-      "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "DigiCert data breach exposes customer information, identity documents",
-      "link": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-      "source": "BleepingComputer",
-      "published": "2026-11-05T16:12:46+00:00",
-      "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Closing the Identity Gap at the Service Desk",
-      "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-      "source": "BleepingComputer",
-      "published": "2026-11-05T15:00:10+00:00",
-      "summary": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recover",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
-      "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
-      "source": "The Hacker News",
-      "published": "2026-11-05T14:41:10+00:00",
-      "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find security holes faster, some",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns",
-      "link": "https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/",
-      "source": "SecurityWeek",
-      "published": "2026-11-05T13:22:12+00:00",
-      "summary": "More than 200 sites were seen serving phishing content to first-time visitors but not to those who revisit. The post Bank Phishing Sites Show Fake &#8216;Suspended&#8217; Pages to Evade Takedowns appeared first on SecurityWeek.",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised",
-      "link": "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/",
-      "source": "SecurityWeek",
-      "published": "2026-11-05T12:58:32+00:00",
-      "summary": "The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely hacked. The post Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised appeared first on SecurityWeek.",
       "cves": [],
       "software_hints": []
     }
