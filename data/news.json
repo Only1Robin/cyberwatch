@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T03:52:27+00:00",
+  "updated": "2026-11-25T06:59:06+00:00",
   "items": [
+    {
+      "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
+      "link": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
+      "source": "The Hacker News",
+      "published": "2026-11-25T06:21:12+00:00",
+      "summary": "WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise of the developer's account. The WordPress plugins team has independently detecte",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
       "link": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
@@ -4692,15 +4701,6 @@
       "source": "SecurityWeek",
       "published": "2026-11-05T12:58:32+00:00",
       "summary": "The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely hacked. The post Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised appeared first on SecurityWeek.",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws",
-      "link": "https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/",
-      "source": "SecurityWeek",
-      "published": "2026-11-05T12:33:49+00:00",
-      "summary": "Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws. The post Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws appeared first on SecurityWeek.",
       "cves": [],
       "software_hints": []
     }
