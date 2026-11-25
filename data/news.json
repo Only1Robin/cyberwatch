@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-25T15:54:43+00:00",
+  "updated": "2026-11-25T18:41:13+00:00",
   "items": [
+    {
+      "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+      "source": "BleepingComputer",
+      "published": "2026-11-25T16:13:40+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lighting systems. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack",
       "link": "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/",
@@ -4700,15 +4709,6 @@
       "cves": [
         "CVE-2026-83844"
       ],
-      "software_hints": []
-    },
-    {
-      "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
-      "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
-      "source": "The Hacker News",
-      "published": "2026-11-06T12:06:35+00:00",
-      "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude feature that lets people send tasks from their phone to Claude Desktop",
-      "cves": [],
       "software_hints": []
     }
   ]
