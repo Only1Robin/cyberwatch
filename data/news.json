@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-25T18:41:13+00:00",
+  "updated": "2026-11-25T21:47:41+00:00",
   "items": [
+    {
+      "title": "1Password customer data stolen after employee GitHub account breach",
+      "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+      "source": "BleepingComputer",
+      "published": "2026-11-25T21:33:33+00:00",
+      "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+      "source": "BleepingComputer",
+      "published": "2026-11-25T19:39:31+00:00",
+      "summary": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
@@ -84,6 +102,20 @@
       "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday. As a precaution, it has taken some systems offline. The bureau collects suspici",
       "cves": [],
       "software_hints": []
+    },
+    {
+      "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Advisories",
+      "published": "2026-11-25T12:00:00+00:00",
+      "summary": "CISA has added 10 new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2023-25914 Danfoss AK-SM 800A Series Path Traversal Vulnerability CVE-2023-25915 Danfoss AK-SM 800A Series Improper Input Validation Vulnerability&nbsp; CVE-2025-",
+      "cves": [
+        "CVE-2023-25914",
+        "CVE-2023-25915"
+      ],
+      "software_hints": [
+        "Danfoss AK-SM 800A Series"
+      ]
     },
     {
       "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
@@ -4680,35 +4712,6 @@
       "published": "2026-11-06T12:37:22+00:00",
       "summary": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
       "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Researchers Find Residential Proxies on White House Network",
-      "link": "https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/",
-      "source": "SecurityWeek",
-      "published": "2026-11-06T12:16:13+00:00",
-      "summary": "In a month, 28 residential proxy services used 6 addresses, mainly between 5 p.m. and midnight, Eastern Time. The post Researchers Find Residential Proxies on White House Network appeared first on SecurityWeek.",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass",
-      "link": "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
-      "source": "SecurityWeek",
-      "published": "2026-11-06T12:07:42+00:00",
-      "summary": "On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters. The post OpenSSH Rushes Patches for &#8216;SSHole&#8217; Authentication Bypass appeared first on SecurityWeek.",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
-      "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
-      "source": "The Hacker News",
-      "published": "2026-11-06T12:06:43+00:00",
-      "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was the newest Paint build in all ten countries The Hacker News checked today. The fla",
-      "cves": [
-        "CVE-2026-83844"
-      ],
       "software_hints": []
     }
   ]
