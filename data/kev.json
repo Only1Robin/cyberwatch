@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-25T13:01:08+00:00",
+  "updated": "2026-11-25T15:54:42+00:00",
   "items": [
+    {
+      "cve": "CVE-2026-103406",
+      "vendor": "Hewlett Packard Enterprise (HPE)",
+      "product": "Juniper Session Smart Conductor and Session Smart Router",
+      "name": "Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router OS Command Injection Vulnerability",
+      "dateAdded": "2026-11-25",
+      "ransomwareUse": "Unknown"
+    },
     {
       "cve": "CVE-2026-132224",
       "vendor": "Optimizely",
@@ -2392,14 +2400,6 @@
       "name": "SmarterTools SmarterMail Authentication Bypass Using an Alternate Path or Channel Vulnerability",
       "dateAdded": "2026-01-26",
       "ransomwareUse": "Known"
-    },
-    {
-      "cve": "CVE-2026-24061",
-      "vendor": "GNU",
-      "product": "InetUtils",
-      "name": "GNU InetUtils Argument Injection Vulnerability",
-      "dateAdded": "2026-01-26",
-      "ransomwareUse": "Unknown"
     }
   ]
 }
