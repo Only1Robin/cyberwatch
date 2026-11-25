@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T21:47:12+00:00",
+  "updated": "2026-11-25T00:51:09+00:00",
   "items": [
+    {
+      "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
+      "link": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
+      "source": "SecurityWeek",
+      "published": "2026-11-24T22:41:58+00:00",
+      "summary": "It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Rackspace shuts down Spot cloud platform after security breach",
       "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
@@ -229,6 +238,21 @@
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The following versions of AutomationDirect C-More EA",
       "cves": [],
       "software_hints": []
+    },
+    {
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Advisories",
+      "published": "2026-11-24T12:00:00+00:00",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability&nbsp; CVE-2026-132165 Drupal Core Remote Code Execution Vulnerability&nbsp; CVE-202",
+      "cves": [
+        "CVE-2026-131914",
+        "CVE-2026-132165"
+      ],
+      "software_hints": [
+        "Idunno AntiCsrf",
+        "Drupal Core"
+      ]
     },
     {
       "title": "1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO",
@@ -4677,24 +4701,6 @@
       "source": "SecurityWeek",
       "published": "2026-11-05T12:33:49+00:00",
       "summary": "Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws. The post Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws appeared first on SecurityWeek.",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
-      "link": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
-      "source": "The Hacker News",
-      "published": "2026-11-05T12:25:00+00:00",
-      "summary": "A critical finding can move through several security tools and still leave the organization exposed.&nbsp; The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can reach it, what ",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-      "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-      "source": "The Hacker News",
-      "published": "2026-11-05T12:08:54+00:00",
-      "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate Linux kernel findings",
       "cves": [],
       "software_hints": []
     }
