@@ -1,6 +1,44 @@
 {
-  "updated": "2026-11-26T06:58:21+00:00",
+  "updated": "2026-11-26T09:57:47+00:00",
   "items": [
+    {
+      "title": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting",
+      "link": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/",
+      "source": "SecurityWeek",
+      "published": "2026-11-26T09:12:26+00:00",
+      "summary": "Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap. The post Drupal Installer Patch Left a Gap Attackers Are Already Exploiting appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "1Password Breach Exposes Customer Data, Internal Source Code",
+      "link": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/",
+      "source": "SecurityWeek",
+      "published": "2026-11-26T08:32:10+00:00",
+      "summary": "A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed. The post 1Password Breach Exposes Customer Data, Internal Source Code appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+      "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+      "source": "The Hacker News",
+      "published": "2026-11-26T07:02:34+00:00",
+      "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. It also relates to C",
+      "cves": [
+        "CVE-2026-136716"
+      ],
+      "software_hints": []
+    },
+    {
+      "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+      "source": "The Hacker News",
+      "published": "2026-11-26T06:44:46+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last week. The Mitel MiCollab vulnerabilities are listed below - CVE",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
       "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
@@ -4675,42 +4713,6 @@
       "source": "The Hacker News",
       "published": "2026-11-06T14:58:32+00:00",
       "summary": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new model is \"more capable at finding and fixing vulnerabilities, and far more reli",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
-      "link": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
-      "source": "SecurityWeek",
-      "published": "2026-11-06T14:40:09+00:00",
-      "summary": "Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise ‘hello’ attacks, Chainalysis breach impact expands. The post In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days appeared first on SecurityWeek.",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Chainalysis says breach exposed credentials for all customers",
-      "link": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
-      "source": "BleepingComputer",
-      "published": "2026-11-06T14:17:07+00:00",
-      "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "DigiCert Data Breach Impacts Business Customer Information",
-      "link": "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/",
-      "source": "SecurityWeek",
-      "published": "2026-11-06T14:00:07+00:00",
-      "summary": "Hackers created an account on an internal system and accessed names, email addresses, phone numbers, and business addresses. The post DigiCert Data Breach Impacts Business Customer Information appeared first on SecurityWeek.",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line",
-      "link": "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/",
-      "source": "SecurityWeek",
-      "published": "2026-11-06T13:19:52+00:00",
-      "summary": "Rated Critical for cybersecurity, OpenAI’s new model beats GPT-5.6 Cyber at exploitation while staying in scope more reliably. The post OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line appeared first on SecurityWeek.",
       "cves": [],
       "software_hints": []
     }
