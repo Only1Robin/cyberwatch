@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-27T03:50:53+00:00",
+  "updated": "2026-11-27T06:59:36+00:00",
   "items": [
+    {
+      "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+      "link": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+      "source": "The Hacker News",
+      "published": "2026-11-27T06:04:20+00:00",
+      "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday. Three of the attacks targeted critical infrastructure operators, and two of those succeeded, w",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+      "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+      "source": "The Hacker News",
+      "published": "2026-11-27T05:48:20+00:00",
+      "summary": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution. The proof-of-concept (PoC) exploit, which has yet to be assigned a CVE identifier, has been tracked as 4HTTP2SHELL and 4HTTP2ROOT. \"I fo",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
@@ -4691,28 +4709,6 @@
       "source": "BleepingComputer",
       "published": "2026-11-07T14:10:19+00:00",
       "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate revenue without deliver",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
-      "link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
-      "source": "SecurityWeek",
-      "published": "2026-11-07T10:16:23+00:00",
-      "summary": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek.",
-      "cves": [
-        "CVE-2026-19868"
-      ],
-      "software_hints": [
-        "SonicWall SonicOS SSLVPN"
-      ]
-    },
-    {
-      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-      "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-      "source": "The Hacker News",
-      "published": "2026-11-07T06:44:17+00:00",
-      "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in",
       "cves": [],
       "software_hints": []
     }
