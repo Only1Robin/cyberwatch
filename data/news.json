@@ -1,12 +1,66 @@
 {
-  "updated": "2026-11-27T09:56:25+00:00",
+  "updated": "2026-11-27T12:56:56+00:00",
   "items": [
+    {
+      "title": "Microsoft removes WSUS server role in Windows Server 2028",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+      "source": "BleepingComputer",
+      "published": "2026-11-27T11:18:36+00:00",
+      "summary": "Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities",
+      "link": "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/",
+      "source": "SecurityWeek",
+      "published": "2026-11-27T11:00:00+00:00",
+      "summary": "Noteworthy stories that might have slipped under the radar: RansomwareHelp accused of profiting from ransom payments, USDA payment systems breach, cybersecurity firm Radware hacked. The post In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities appeared first on SecurityWee",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+      "link": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+      "source": "The Hacker News",
+      "published": "2026-11-27T10:32:18+00:00",
+      "summary": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells almost no one what is actually happening across the environment that week. Someone ",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Drupal warns of new site takeover flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-11-27T10:10:15+00:00",
+      "summary": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "SAP confirms security incident after suspicious GitHub activity",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+      "source": "BleepingComputer",
+      "published": "2026-11-27T09:56:36+00:00",
+      "summary": "SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "100,000 Potentially Impacted by Colorado Data Breach",
       "link": "https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/",
       "source": "SecurityWeek",
       "published": "2026-11-27T09:30:54+00:00",
       "summary": "Hackers breached the digital identification and document storage application myColorado and accessed user-uploaded data. The post 100,000 Potentially Impacted by Colorado Data Breach appeared first on SecurityWeek.",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+      "link": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+      "source": "The Hacker News",
+      "published": "2026-11-27T09:29:30+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website. \"Evidence indicates that malicious files were generated not only when users downloaded the programs direct",
       "cves": [],
       "software_hints": []
     },
@@ -125,7 +179,7 @@
       "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
       "source": "The Hacker News",
       "published": "2026-11-26T15:13:41+00:00",
-      "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides in a small utils package or in conftest.py,\" SafeDep said in a report published ",
+      "summary": "The threat actors behind the PolinRider campaign have compromised over 7,600 GitHub repositories, in some cases planting a Python loader capable of delivering next-stage payloads, as evidence emerges that the activity may have started as far back as February 2025. \"These are real developers, not thr",
       "cves": [],
       "software_hints": []
     },
@@ -4657,60 +4711,6 @@
       "source": "The Hacker News",
       "published": "2026-11-09T10:56:25+00:00",
       "summary": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that company to reach the wallets, both companies said late last week.",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Over 3 Million People Hit by Frontline Education Data Breach",
-      "link": "https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/",
-      "source": "SecurityWeek",
-      "published": "2026-11-09T10:09:02+00:00",
-      "summary": "Frontline Education told Indiana regulators that its August data breach affected over 3 million school district staff and students. The post Over 3 Million People Hit by Frontline Education Data Breach appeared first on SecurityWeek.",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
-      "link": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
-      "source": "The Hacker News",
-      "published": "2026-11-09T10:01:21+00:00",
-      "summary": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday. It has several security fixes to release and asked operators to be careful until they are out. One operator said new accounts use",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
-      "link": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
-      "source": "The Hacker News",
-      "published": "2026-11-09T09:01:50+00:00",
-      "summary": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week. The agents also found a Taipei fire department platform exposing patient data from 2018, including ECG readings and ambulance video foota",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack",
-      "link": "https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/",
-      "source": "SecurityWeek",
-      "published": "2026-11-09T08:35:50+00:00",
-      "summary": "Working with cryptographers, DeepMind’s AI agents cut the cost of forging RSA-1024 signatures and found a cheaper way to factor keys. The post Google DeepMind&#8217;s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack appeared first on SecurityWeek.",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
-      "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
-      "source": "The Hacker News",
-      "published": "2026-11-09T07:05:48+00:00",
-      "summary": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal court on Friday, where",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
-      "link": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
-      "source": "The Hacker News",
-      "published": "2026-11-09T06:15:10+00:00",
-      "summary": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory. \"The actors may exploit vulnerabilities or weaknesses in unpatched or inte",
       "cves": [],
       "software_hints": []
     }
