@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-27T15:50:09+00:00",
+  "updated": "2026-11-27T18:43:51+00:00",
   "items": [
+    {
+      "cve": "CVE-2026-120705",
+      "vendor": "OSGeo",
+      "product": "GeoServer",
+      "name": "OSGeo GeoServer XML Injection Vulnerability",
+      "dateAdded": "2026-11-27",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-129243",
+      "vendor": "OSGeo",
+      "product": "GeoServer",
+      "name": "OSGeo GeoServer Incorrect Authorization Vulnerability",
+      "dateAdded": "2026-11-27",
+      "ransomwareUse": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-136716",
+      "vendor": "Drupal",
+      "product": "Core",
+      "name": "Drupal Core Improper Check for Unusual or Exceptional Conditions Vulnerability",
+      "dateAdded": "2026-11-27",
+      "ransomwareUse": "Unknown"
+    },
     {
       "cve": "CVE-2026-103406",
       "vendor": "Hewlett Packard Enterprise (HPE)",
@@ -2376,30 +2400,6 @@
       "name": "Microsoft Windows Type Confusion Vulnerability",
       "dateAdded": "2026-02-10",
       "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2026-21514",
-      "vendor": "Microsoft",
-      "product": "Office",
-      "name": "Microsoft Office Word Reliance on Untrusted Inputs in a Security Decision Vulnerability",
-      "dateAdded": "2026-02-10",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2025-11953",
-      "vendor": "React Native Community",
-      "product": "CLI",
-      "name": "React Native Community CLI OS Command Injection Vulnerability",
-      "dateAdded": "2026-02-05",
-      "ransomwareUse": "Unknown"
-    },
-    {
-      "cve": "CVE-2026-24423",
-      "vendor": "SmarterTools",
-      "product": "SmarterMail",
-      "name": "SmarterTools SmarterMail Missing Authentication for Critical Function Vulnerability",
-      "dateAdded": "2026-02-05",
-      "ransomwareUse": "Known"
     }
   ]
 }
