@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-27T18:43:52+00:00",
+  "updated": "2026-11-27T21:45:09+00:00",
   "items": [
+    {
+      "title": "pCloud confirms password manager hack after suspicious login alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+      "source": "BleepingComputer",
+      "published": "2026-11-27T19:26:04+00:00",
+      "summary": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
+      "cves": [],
+      "software_hints": []
+    },
+    {
+      "title": "New Boston Scientific data breach exposes personal, medical info",
+      "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+      "source": "BleepingComputer",
+      "published": "2026-11-27T18:57:42+00:00",
+      "summary": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
       "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
@@ -45,6 +63,22 @@
       "summary": "Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN, identity theft protection, and personal data removal services. [...]",
       "cves": [],
       "software_hints": []
+    },
+    {
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Advisories",
+      "published": "2026-11-27T12:00:00+00:00",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-120705 OSGeo GeoServer XML Injection Vulnerability CVE-2026-129243 OSGeo GeoServer Incorrect Authorization Vulnerability&nbsp; CVE-2026-136716 Drupal Core",
+      "cves": [
+        "CVE-2026-120705",
+        "CVE-2026-129243",
+        "CVE-2026-136716"
+      ],
+      "software_hints": [
+        "OSGeo GeoServer",
+        "Drupal Core"
+      ]
     },
     {
       "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
@@ -4680,33 +4714,6 @@
       "source": "The Hacker News",
       "published": "2026-11-09T13:28:25+00:00",
       "summary": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become part of the attack. Elsewhere, attackers are hiding inside norm",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Plex2Shell Exploited Against QNAP NAS Users",
-      "link": "https://www.securityweek.com/plex2shell-exploited-against-qnap-nas-users/",
-      "source": "SecurityWeek",
-      "published": "2026-11-09T13:13:28+00:00",
-      "summary": "Threat actors are exploiting the four-flaw chain to hack the Plex Media Server application on QNAP NAS devices. The post Plex2Shell Exploited Against QNAP NAS Users appeared first on SecurityWeek.",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Iris Plaza Breach May Have Exposed Data of 7.7 Million Customers",
-      "link": "https://www.securityweek.com/iris-plaza-breach-may-have-exposed-data-of-7-7-million-customers/",
-      "source": "SecurityWeek",
-      "published": "2026-11-09T12:41:27+00:00",
-      "summary": "Hackers compromised an external cloud service used by the shopping platform and may have stolen personal information from it. The post Iris Plaza Breach May Have Exposed Data of 7.7 Million Customers appeared first on SecurityWeek.",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "Italy’s Meloni Blames Pro-Russian Hackers for Leak of Foreign Minister’s Data on the Dark Web",
-      "link": "https://www.securityweek.com/italys-meloni-blames-pro-russian-hackers-for-leak-of-foreign-ministers-data-on-the-dark-web/",
-      "source": "SecurityWeek",
-      "published": "2026-11-09T12:22:12+00:00",
-      "summary": "Italian Foreign Minister Antonio Tajani said Saturday that his personal data had been disseminated on the dark web. The post Italy&#8217;s Meloni Blames Pro-Russian Hackers for Leak of Foreign Minister&#8217;s Data on the Dark Web appeared first on SecurityWeek.",
       "cves": [],
       "software_hints": []
     }
