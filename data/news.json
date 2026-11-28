@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-28T06:54:33+00:00",
+  "updated": "2026-11-28T09:42:50+00:00",
   "items": [
+    {
+      "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+      "link": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+      "source": "The Hacker News",
+      "published": "2026-11-28T08:08:11+00:00",
+      "summary": "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts. \"A cyber attack targeting pCloud Pass occurred, which was promptly contained by the pCloud team,\" the Swiss company said in respo",
+      "cves": [],
+      "software_hints": []
+    },
     {
       "title": "pCloud confirms password manager hack after suspicious login alerts",
       "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
@@ -4705,15 +4714,6 @@
       "source": "BleepingComputer",
       "published": "2026-11-09T13:28:56+00:00",
       "summary": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
-      "cves": [],
-      "software_hints": []
-    },
-    {
-      "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
-      "link": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
-      "source": "The Hacker News",
-      "published": "2026-11-09T13:28:25+00:00",
-      "summary": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become part of the attack. Elsewhere, attackers are hiding inside norm",
       "cves": [],
       "software_hints": []
     }
